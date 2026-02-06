@@ -3,202 +3,134 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Professional portfolio of Anderson Santos - Android Developer specializing in Kotlin, MVVM and Clean Architecture. Check out my projects and services.">
-    <meta name="keywords" content="Android Developer, Kotlin, MVVM, Clean Architecture, Jetpack, Firebase, Play Store">
-    <meta name="author" content="Anderson Santos">
-    <meta property="og:title" content="Anderson Santos - Android Developer">
-    <meta property="og:description" content="Android Developer specializing in Kotlin, MVVM and Clean Architecture. See my projects and services.">
-    <meta property="og:image" content="assets/img/profile.jpg">
-    <meta property="og:url" content="https://anderson-portfolio.github.io/english_page.html">
-    <meta property="og:type" content="website">
-    <title>Anderson Santos - Android Developer | Portfolio</title>
-    <link rel="canonical" href="https://anderson-portfolio.github.io/english_page.html">
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>Anderson Santos - Android Developer</title>
+    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Header / Navigation -->
-    <header class="header">
-        <nav class="navbar">
-            <div class="navbar-container">
-                <div class="logo">
-                    <h1>Anderson Santos</h1>
-                </div>
-                <ul class="nav-menu">
-                    <li><a href="#about" class="nav-link">About</a></li>
-                    <li><a href="#projects" class="nav-link">Projects</a></li>
-                    <li><a href="#services" class="nav-link">Services</a></li>
-
-                    <li><a href="#contact" class="nav-link">Contact</a></li>
-                    <li><a href="index.html?lang=pt" class="nav-link lang-toggle">PT</a></li>
-                </ul>
+    <nav>
+        <div class="container">
+            <div class="logo">
+                <h2>Anderson Santos</h2>
             </div>
-        </nav>
+            <ul class="nav-menu">
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#education" class="nav-link">Education</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+                <li><a href="index.html" class="nav-link">PT</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="hero" id="about">
+        <div class="container">
+            <img src="assets/img/profile.jpg" alt="Anderson Santos" class="hero-img" onerror="this.src='https://github.com/AndersonPS94.png'">
+            <h1>Hello, I'm Anderson Santos</h1>
+            <p>Android Developer | Kotlin | MVVM | Clean Architecture</p>
+            <p style="max-width: 700px; margin: 2rem auto;">Android Developer passionate about creating robust and scalable solutions. Expert in Kotlin, focusing on clean architecture and the best user experience.</p>
+        </div>
     </header>
 
-    <!-- Hero Section -->
-    <section class="hero">
-        <div class="hero-content">
-            <img src="assets/img/profile.jpg" alt="Profile photo of Anderson Santos" class="hero-image">
-            <h2>Hi, I'm Anderson Santos</h2>
-            <p class="hero-subtitle">Android Developer | Kotlin | MVVM | Clean Architecture</p>
-            <p class="hero-description">Expert in developing native Android applications with Kotlin, focusing on clean architecture, design patterns, and exceptional user experience.</p>
-            <div class="hero-buttons">
-                <a href="#contact" class="btn btn-primary">Let's Work Together</a>
-                <a href="https://github.com/AndersonPS94" target="_blank" class="btn btn-secondary">View on GitHub</a>
-            </div>
-        </div>
-    </section>
-
-    <!-- About -->
-    <section id="about" class="about">
-        <div class="container">
-            <h2 class="section-title">About Me</h2>
-            <p class="about-text">
-                I am a passionate Android developer committed to creating high-quality applications using Kotlin and industry best practices. I have solid experience in MVVM, Jetpack, Clean Architecture, Hilt, and Firebase. My focus is delivering robust, scalable, and optimized solutions, with proven success in publishing applications on the Google Play Store. I am constantly learning new technologies and contributing to projects that make a difference.
-            </p>
-            <div class="skills">
-                <div class="skill-item">
-                    <h3>Kotlin</h3>
-                    <div class="skill-bar">
-                        <div class="skill-progress" style="width: 95%"></div>
-                    </div>
-                </div>
-                <div class="skill-item">
-                    <h3>MVVM & Clean Architecture</h3>
-                    <div class="skill-bar">
-                        <div class="skill-progress" style="width: 90%"></div>
-                    </div>
-                </div>
-                <div class="skill-item">
-                    <h3>Jetpack & Firebase</h3>
-                    <div class="skill-bar">
-                        <div class="skill-progress" style="width: 85%"></div>
-                    </div>
-                </div>
-                <div class="skill-item">
-                    <h3>Google Play Store</h3>
-                    <div class="skill-bar">
-                        <div class="skill-progress" style="width: 80%"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Projects -->
     <section id="projects" class="projects">
         <div class="container">
             <h2 class="section-title">My Projects</h2>
+            
+            <!-- ScanGO Highlight -->
+            <div class="scango-highlight" style="margin-bottom: 4rem; padding: 2rem; border-radius: 20px; background: #f0f7ff; border: 1px solid #dbeafe;">
+                <div class="scango-container">
+                    <div class="scango-info">
+                        <span class="tag" style="background: #01875f; color: #fff; margin-bottom: 1rem; display: inline-block;">Google Play Store 🚀</span>
+                        <h2>ScanGO - QR Code Reader</h2>
+                        <p>ScanGO is your personal code organizer, designed to be ultra-fast, simple, and practical.</p>
+                        <ul class="scango-features">
+                            <li>Ultra-fast QR & Barcode reading</li>
+                            <li>Smart history with filters</li>
+                            <li>Preview and Favorites</li>
+                        </ul>
+                        <a href="https://play.google.com/store/apps/details?id=com.teamkoders.scango" target="_blank" class="play-store-btn">
+                            Get it on Google Play
+                        </a>
+                    </div>
+                    <div class="scango-mockup">
+                        <img src="assets/img/scango.png" alt="ScanGO App" style="max-height: 400px; width: auto; display: block; margin: 0 auto; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+                    </div>
+                </div>
+            </div>
+
             <div class="projects-grid">
-                <!-- Project 1: ScanGO -->
                 <div class="project-card">
-                    <div class="project-image">
-                        <img src="assets/img/scango.png" alt="ScanGO - QR Code reading app">
-                    </div>
+                    <img src="assets/img/metamanager.png" alt="MetaManagerApp" class="project-img">
                     <div class="project-content">
-                        <h3>ScanGO</h3>
-                        <p class="project-tech"><strong>Technologies:</strong> Kotlin, MVVM, Jetpack, Camera API</p>
-                        <p class="project-description">Native Android application for reading and managing QR Codes with an intuitive interface and advanced features. ScanGO offers a fast and efficient solution for capturing, storing, and managing QR codes, with complete history and easy sharing.</p>
-                        <a href="https://github.com/AndersonPS94/ScanGO-AndroidApp" target="_blank" class="project-link">View on GitHub →</a>
-                    </div>
-                </div>
-
-                <!-- Project 2: MetaManagerApp -->
-                <div class="project-card">
-                    <div class="project-image">
-                        <img src="assets/img/metamanager.png" alt="MetaManagerApp - AI-powered goals app">
-                    </div>
-                    <div class="project-content">
+                        <div class="project-tags">
+                            <span class="tag">Kotlin</span>
+                            <span class="tag">MVVM</span>
+                            <span class="tag">OpenAI</span>
+                        </div>
                         <h3>MetaManagerApp</h3>
-                        <p class="project-tech"><strong>Technologies:</strong> Kotlin, OpenAI API, MVVM, Firebase</p>
-                        <p class="project-description">Innovative application that uses artificial intelligence (OpenAI) to generate and manage goals intelligently. MetaManagerApp helps users establish realistic objectives and track their progress with personalized suggestions powered by AI.</p>
-                        <a href="https://github.com/AndersonPS94/MetaManagerApp/tree/master" target="_blank" class="project-link">View on GitHub →</a>
+                        <p>Innovative app that uses artificial intelligence to generate and manage goals smartly.</p>
+                        <a href="https://github.com/AndersonPS94" target="_blank" class="nav-link" style="color: var(--primary-color); font-weight: 600;">View on GitHub →</a>
                     </div>
                 </div>
-
-                <!-- Project 3: CountryExplorerApp -->
                 <div class="project-card">
-                    <div class="project-image">
-                        <img src="assets/img/countryexplorer.png" alt="CountryExplorerApp - Country explorer app">
-                    </div>
+                    <img src="assets/img/countryexplorer.png" alt="CountryExplorerApp" class="project-img">
                     <div class="project-content">
+                        <div class="project-tags">
+                            <span class="tag">Kotlin</span>
+                            <span class="tag">REST API</span>
+                            <span class="tag">Jetpack</span>
+                        </div>
                         <h3>CountryExplorerApp</h3>
-                        <p class="project-tech"><strong>Technologies:</strong> Kotlin, REST API, MVVM, Jetpack</p>
-                        <p class="project-description">Educational application that allows exploring detailed information about countries around the world. With a clean and responsive interface, CountryExplorerApp provides data on geography, population, languages, and more, consuming data from public APIs.</p>
-                        <a href="https://github.com/AndersonPS94/CountryExplorerApp" target="_blank" class="project-link">View on GitHub →</a>
+                        <p>Educational app that allows exploring detailed information about countries worldwide.</p>
+                        <a href="https://github.com/AndersonPS94" target="_blank" class="nav-link" style="color: var(--primary-color); font-weight: 600;">View on GitHub →</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Services -->
-    <section id="services" class="services">
+    <section id="education" class="education" style="background-color: var(--light-bg);">
         <div class="container">
-            <h2 class="section-title">What I Offer</h2>
-            <div class="services-grid">
-                <div class="service-card">
-                    <div class="service-icon">📱</div>
-                    <h3>Android Development</h3>
-                    <p>Creation of native Android applications with Kotlin, following best practices in architecture, performance, and security. From MVP to complex applications with multiple features.</p>
-                </div>
-                <div class="service-card">
-                    <div class="service-icon">🔧</div>
-                    <h3>Consulting & Refactoring</h3>
-                    <p>Analysis of existing code, suggestions for architectural improvements, refactoring to Clean Architecture, MVVM pattern implementation, and performance optimization.</p>
-                </div>
-                <div class="service-card">
-                    <div class="service-icon">🚀</div>
-                    <h3>Play Store Publishing</h3>
-                    <p>Complete preparation of your application for publication on the Google Play Store, including asset optimization, testing, documentation, and post-launch support.</p>
-                </div>
+            <h2 class="section-title">My Learning Journey</h2>
+            <div id="alura-progress" class="education-grid">
+                <div class="loading-spinner">Loading Alura information...</div>
             </div>
         </div>
     </section>
 
-
-
-    <!-- Contact -->
     <section id="contact" class="contact">
         <div class="container">
             <h2 class="section-title">Let's Talk?</h2>
-            <p class="contact-intro">I'm always open to new opportunities, interesting projects, and collaborations. Get in touch with me through any of the channels below.</p>
-            <div class="contact-methods">
-                <a href="mailto:andersonpsdev@gmail.com" class="contact-card">
-                    <div class="contact-icon">✉️</div>
+            <p style="text-align: center; margin-bottom: 2rem;">I'm always open to new opportunities, interesting projects, and collaborations.</p>
+            
+            <div class="contact-container">
+                <a href="mailto:andersonpsdev@gmail.com" class="contact-item">
+                    <span class="contact-icon">✉️</span>
                     <h3>Email</h3>
                     <p>andersonpsdev@gmail.com</p>
                 </a>
-                <a href="https://www.linkedin.com/in/andersonps94/" target="_blank" class="contact-card">
-                    <div class="contact-icon">💼</div>
+                <a href="https://linkedin.com/in/andersonps94" target="_blank" class="contact-item">
+                    <span class="contact-icon">💼</span>
                     <h3>LinkedIn</h3>
-                    <p>linkedin.com/in/andersonps94</p>
+                    <p>in/andersonps94</p>
                 </a>
-                <a href="https://wa.me/5512997439605?text=Hi%20Anderson!%20I%20would%20like%20to%20discuss%20a%20project." target="_blank" class="contact-card">
-                    <div class="contact-icon">💬</div>
+                <a href="https://wa.me/5512997439605" target="_blank" class="contact-item">
+                    <span class="contact-icon">💬</span>
                     <h3>WhatsApp</h3>
                     <p>+55 (12) 99743-9605</p>
                 </a>
             </div>
-            <div class="cta-section">
-                <a href="https://wa.me/5512997439605?text=Hi%20Anderson!%20I%20would%20like%20to%20hire%20your%20services." class="btn btn-primary btn-large">Hire Now</a>
-            </div>
         </div>
     </section>
 
-    <!-- Footer -->
-    <footer class="footer">
+    <footer>
         <div class="container">
-            <p>&copy; 2024 Anderson Santos. All rights reserved.</p>
-            <p>Developed with ❤️ | <a href="index.html?lang=pt">Versão em Português</a></p>
+            <p>&copy; 2026 Anderson Santos. All rights reserved.</p>
         </div>
     </footer>
 
     <script src="assets/js/main.js"></script>
 </body>
 </html>
-
