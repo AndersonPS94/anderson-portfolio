@@ -2,7 +2,7 @@ name: Atualizar dados da Alura
 
 on:
   schedule:
-    - cron: '0 0 * * *' # todo dia à meia-noite
+   - cron: '0 * * * *' # a cada 1 hora
   workflow_dispatch:
 
 jobs:
