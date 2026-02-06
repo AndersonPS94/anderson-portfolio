@@ -2,13 +2,13 @@
     "id": 8092755,
     "courseProgresses": [
         {
-            "slug": "git-github-compartilhando-colaborando-projetos",
+            "slug": "equipes-ageis-organizando-papeis-equipe",
             "finished": false,
-            "name": "Git e GitHub: compartilhando e colaborando em projetos",
-            "lastAccessTime": 1770390433000,
-            "id": 3386,
-            "progress": 86,
-            "readyToFinish": true
+            "name": "Equipes ágeis: organizando os papéis em uma equipe",
+            "lastAccessTime": 1770400835000,
+            "id": 3319,
+            "progress": 36,
+            "readyToFinish": false
         },
         {
             "slug": "introducao-a-programacao-com-c-parte-1",
@@ -95,12 +95,12 @@
             "code": "carreira-tester-qa",
             "name": "Carreira QA: processos e automação de testes",
             "url": "/formacao-carreira-tester-qa",
-            "lastAccessTime": 1770390433000,
+            "lastAccessTime": 1770400835000,
             "kind": "DEGREE",
             "totalCourses": 6,
-            "finishedCourses": 2,
+            "finishedCourses": 3,
             "totalSteps": 16,
-            "finishedSteps": 4,
+            "finishedSteps": 5,
             "color": "#57c478",
             "author": ""
         },
@@ -193,7 +193,7 @@
             "code": "lideranca",
             "name": "Liderança",
             "url": "/career/path/lideranca",
-            "lastAccessTime": 1766239580000,
+            "lastAccessTime": 1770400835000,
             "kind": "CAREER_PATH",
             "totalCourses": 22,
             "finishedCourses": 2,
@@ -378,7 +378,7 @@
             "lastAccessTime": 1768397662000,
             "kind": "USER_GUIDE",
             "totalCourses": 29,
-            "finishedCourses": 3,
+            "finishedCourses": 4,
             "totalSteps": 13,
             "finishedSteps": 2,
             "color": "#169ec2",
