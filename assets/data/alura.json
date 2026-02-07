@@ -5,9 +5,9 @@
             "slug": "equipes-ageis-organizando-papeis-equipe",
             "finished": false,
             "name": "Equipes ágeis: organizando os papéis em uma equipe",
-            "lastAccessTime": 1770400835000,
+            "lastAccessTime": 1770425840000,
             "id": 3319,
-            "progress": 36,
+            "progress": 48,
             "readyToFinish": false
         },
         {
@@ -48,6 +48,34 @@
         }
     ],
     "guides": [
+        {
+            "id": 665972,
+            "code": "gestao-agil-projetos",
+            "name": "Gestão Ágil de Projetos",
+            "url": "/formacao-gestao-agil-projetos",
+            "lastAccessTime": 1770426009000,
+            "kind": "DEGREE",
+            "totalCourses": 11,
+            "finishedCourses": 0,
+            "totalSteps": 11,
+            "finishedSteps": 0,
+            "color": "#ff8c2a",
+            "author": ""
+        },
+        {
+            "id": 478903,
+            "code": "kanban",
+            "name": "Kanban",
+            "url": "/formacao-kanban",
+            "lastAccessTime": 1770425915000,
+            "kind": "DEGREE",
+            "totalCourses": 5,
+            "finishedCourses": 0,
+            "totalSteps": 13,
+            "finishedSteps": 0,
+            "color": "#ff8c2a",
+            "author": ""
+        },
         {
             "id": 423217,
             "code": "integracao-continua-entrega-continua",
@@ -95,7 +123,7 @@
             "code": "carreira-tester-qa",
             "name": "Carreira QA: processos e automação de testes",
             "url": "/formacao-carreira-tester-qa",
-            "lastAccessTime": 1770400835000,
+            "lastAccessTime": 1770425840000,
             "kind": "DEGREE",
             "totalCourses": 6,
             "finishedCourses": 3,
@@ -193,7 +221,7 @@
             "code": "lideranca",
             "name": "Liderança",
             "url": "/career/path/lideranca",
-            "lastAccessTime": 1770400835000,
+            "lastAccessTime": 1770425840000,
             "kind": "CAREER_PATH",
             "totalCourses": 22,
             "finishedCourses": 2,
