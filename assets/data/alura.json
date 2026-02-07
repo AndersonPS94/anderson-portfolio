@@ -5,10 +5,10 @@
             "slug": "equipes-ageis-organizando-papeis-equipe",
             "finished": false,
             "name": "Equipes ágeis: organizando os papéis em uma equipe",
-            "lastAccessTime": 1770426259000,
+            "lastAccessTime": 1770479841000,
             "id": 3319,
-            "progress": 51,
-            "readyToFinish": false
+            "progress": 69,
+            "readyToFinish": true
         },
         {
             "slug": "introducao-a-programacao-com-c-parte-1",
@@ -123,7 +123,7 @@
             "code": "carreira-tester-qa",
             "name": "Carreira QA: processos e automação de testes",
             "url": "/formacao-carreira-tester-qa",
-            "lastAccessTime": 1770426259000,
+            "lastAccessTime": 1770479841000,
             "kind": "DEGREE",
             "totalCourses": 6,
             "finishedCourses": 3,
@@ -221,7 +221,7 @@
             "code": "lideranca",
             "name": "Liderança",
             "url": "/career/path/lideranca",
-            "lastAccessTime": 1770426259000,
+            "lastAccessTime": 1770479841000,
             "kind": "CAREER_PATH",
             "totalCourses": 22,
             "finishedCourses": 2,
