@@ -2,8 +2,11 @@ name: Atualizar dados da Alura
 
 on:
   schedule:
-   - cron: '0 * * * *' # a cada 1 hora
+    - cron: '0 * * * *' # a cada 1 hora
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-alura:
@@ -30,6 +33,11 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add .
-          git commit -m "Atualiza dados da Alura automaticamente" || echo "Sem alterações"
-          git push
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Atualiza dados da Alura automaticamente"
+            git push
+          else
+            echo "Sem alterações para commit"
+          fi
