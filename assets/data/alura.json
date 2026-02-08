@@ -5,10 +5,10 @@
             "slug": "cypress-automatizando-testes-e2e",
             "finished": false,
             "name": "Cypress: automatizando testes E2E",
-            "lastAccessTime": 1770561828000,
+            "lastAccessTime": 1770580618000,
             "id": 3629,
-            "progress": 29,
-            "readyToFinish": false
+            "progress": 66,
+            "readyToFinish": true
         },
         {
             "slug": "robot-framework-testes-padrao-bdd",
@@ -123,7 +123,7 @@
             "code": "carreira-tester-qa",
             "name": "Carreira QA: processos e automação de testes",
             "url": "/formacao-carreira-tester-qa",
-            "lastAccessTime": 1770561828000,
+            "lastAccessTime": 1770580618000,
             "kind": "DEGREE",
             "totalCourses": 6,
             "finishedCourses": 4,
