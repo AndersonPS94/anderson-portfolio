@@ -2,19 +2,28 @@
     "id": 8092755,
     "courseProgresses": [
         {
-            "slug": "equipes-ageis-organizando-papeis-equipe",
+            "slug": "cypress-automatizando-testes-e2e",
             "finished": false,
-            "name": "Equipes ágeis: organizando os papéis em uma equipe",
-            "lastAccessTime": 1770479841000,
-            "id": 3319,
-            "progress": 69,
-            "readyToFinish": true
+            "name": "Cypress: automatizando testes E2E",
+            "lastAccessTime": 1770506002000,
+            "id": 3629,
+            "progress": 6,
+            "readyToFinish": false
+        },
+        {
+            "slug": "robot-framework-testes-padrao-bdd",
+            "finished": false,
+            "name": "Robot Framework: automatizando testes no padrão BDD",
+            "lastAccessTime": 1770503830000,
+            "id": 2896,
+            "progress": 2,
+            "readyToFinish": false
         },
         {
             "slug": "introducao-a-programacao-com-c-parte-1",
             "finished": false,
             "name": "C: conhecendo a Linguagem das Linguagens",
-            "lastAccessTime": 1770174189000,
+            "lastAccessTime": 1770502504000,
             "id": 225,
             "progress": 8,
             "readyToFinish": false
@@ -35,15 +44,6 @@
             "lastAccessTime": 1768914547000,
             "id": 4925,
             "progress": 16,
-            "readyToFinish": false
-        },
-        {
-            "slug": "ciberseguranca-fundamentos-praticas-integradas",
-            "finished": false,
-            "name": "Cibersegurança: Fundamentos e práticas integradas",
-            "lastAccessTime": 1768581358000,
-            "id": 4599,
-            "progress": 6,
             "readyToFinish": false
         }
     ],
@@ -123,12 +123,12 @@
             "code": "carreira-tester-qa",
             "name": "Carreira QA: processos e automação de testes",
             "url": "/formacao-carreira-tester-qa",
-            "lastAccessTime": 1770479841000,
+            "lastAccessTime": 1770506002000,
             "kind": "DEGREE",
             "totalCourses": 6,
-            "finishedCourses": 3,
+            "finishedCourses": 4,
             "totalSteps": 16,
-            "finishedSteps": 5,
+            "finishedSteps": 6,
             "color": "#57c478",
             "author": ""
         },
@@ -221,12 +221,12 @@
             "code": "lideranca",
             "name": "Liderança",
             "url": "/career/path/lideranca",
-            "lastAccessTime": 1770479841000,
+            "lastAccessTime": 1770503602000,
             "kind": "CAREER_PATH",
             "totalCourses": 22,
-            "finishedCourses": 2,
+            "finishedCourses": 3,
             "totalSteps": 22,
-            "finishedSteps": 2,
+            "finishedSteps": 3,
             "color": "#ff8c2a",
             "author": ""
         },
@@ -459,7 +459,7 @@
             "code": "warm-up-defensive-cyber-security-blue-team-operations-80458",
             "name": "Warm Up: Defensive Cyber Security – Blue Team Operations",
             "url": "/corp/warm-up-defensive-cyber-security-blue-team-operations-80458-p529314",
-            "lastAccessTime": 1770174189000,
+            "lastAccessTime": 1770502504000,
             "kind": "STUDY_PLAN",
             "totalCourses": 18,
             "finishedCourses": 8,
