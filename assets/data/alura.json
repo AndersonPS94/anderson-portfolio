@@ -5,9 +5,9 @@
             "slug": "cypress-automatizando-testes-e2e",
             "finished": false,
             "name": "Cypress: automatizando testes E2E",
-            "lastAccessTime": 1770506002000,
+            "lastAccessTime": 1770561828000,
             "id": 3629,
-            "progress": 6,
+            "progress": 29,
             "readyToFinish": false
         },
         {
@@ -123,7 +123,7 @@
             "code": "carreira-tester-qa",
             "name": "Carreira QA: processos e automação de testes",
             "url": "/formacao-carreira-tester-qa",
-            "lastAccessTime": 1770506002000,
+            "lastAccessTime": 1770561828000,
             "kind": "DEGREE",
             "totalCourses": 6,
             "finishedCourses": 4,
