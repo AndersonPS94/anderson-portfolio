@@ -5,7 +5,7 @@
             "slug": "robot-framework-testes-padrao-bdd",
             "finished": false,
             "name": "Robot Framework: automatizando testes no padrão BDD",
-            "lastAccessTime": 1770592981000,
+            "lastAccessTime": 1770630243000,
             "id": 2896,
             "progress": 7,
             "readyToFinish": false
@@ -123,7 +123,7 @@
             "code": "carreira-tester-qa",
             "name": "Carreira QA: processos e automação de testes",
             "url": "/formacao-carreira-tester-qa",
-            "lastAccessTime": 1770592981000,
+            "lastAccessTime": 1770630243000,
             "kind": "DEGREE",
             "totalCourses": 6,
             "finishedCourses": 5,
