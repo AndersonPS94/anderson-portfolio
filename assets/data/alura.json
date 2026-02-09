@@ -2,21 +2,12 @@
     "id": 8092755,
     "courseProgresses": [
         {
-            "slug": "cypress-automatizando-testes-e2e",
-            "finished": false,
-            "name": "Cypress: automatizando testes E2E",
-            "lastAccessTime": 1770580618000,
-            "id": 3629,
-            "progress": 66,
-            "readyToFinish": true
-        },
-        {
             "slug": "robot-framework-testes-padrao-bdd",
             "finished": false,
             "name": "Robot Framework: automatizando testes no padrão BDD",
-            "lastAccessTime": 1770503830000,
+            "lastAccessTime": 1770592981000,
             "id": 2896,
-            "progress": 2,
+            "progress": 7,
             "readyToFinish": false
         },
         {
@@ -44,6 +35,15 @@
             "lastAccessTime": 1768914547000,
             "id": 4925,
             "progress": 16,
+            "readyToFinish": false
+        },
+        {
+            "slug": "ciberseguranca-fundamentos-praticas-integradas",
+            "finished": false,
+            "name": "Cibersegurança: Fundamentos e práticas integradas",
+            "lastAccessTime": 1768581358000,
+            "id": 4599,
+            "progress": 6,
             "readyToFinish": false
         }
     ],
@@ -123,12 +123,12 @@
             "code": "carreira-tester-qa",
             "name": "Carreira QA: processos e automação de testes",
             "url": "/formacao-carreira-tester-qa",
-            "lastAccessTime": 1770580618000,
+            "lastAccessTime": 1770592981000,
             "kind": "DEGREE",
             "totalCourses": 6,
-            "finishedCourses": 4,
+            "finishedCourses": 5,
             "totalSteps": 16,
-            "finishedSteps": 6,
+            "finishedSteps": 7,
             "color": "#57c478",
             "author": ""
         },
