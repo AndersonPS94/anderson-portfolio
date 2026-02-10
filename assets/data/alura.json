@@ -5,10 +5,10 @@
             "slug": "arquitetura-computadores-funcionamento-programa",
             "finished": false,
             "name": "Arquitetura de computadores: por trás de como seu programa funciona",
-            "lastAccessTime": 1770719034000,
+            "lastAccessTime": 1770734173000,
             "id": 1943,
-            "progress": 22,
-            "readyToFinish": false
+            "progress": 73,
+            "readyToFinish": true
         },
         {
             "slug": "robot-framework-testes-padrao-bdd",
@@ -417,7 +417,7 @@
             "code": "infraestrutura-e-suporte-de-ti-brunodivino-1632490073679",
             "name": "Infraestrutura e Suporte de TI",
             "url": "/infraestrutura-e-suporte-de-ti-brunodivino-1632490073679-p225763",
-            "lastAccessTime": 1770719034000,
+            "lastAccessTime": 1770734173000,
             "kind": "USER_GUIDE",
             "totalCourses": 47,
             "finishedCourses": 2,
@@ -459,7 +459,7 @@
             "code": "warm-up-defensive-cyber-security-blue-team-operations-80458",
             "name": "Warm Up: Defensive Cyber Security – Blue Team Operations",
             "url": "/corp/warm-up-defensive-cyber-security-blue-team-operations-80458-p529314",
-            "lastAccessTime": 1770719034000,
+            "lastAccessTime": 1770734173000,
             "kind": "STUDY_PLAN",
             "totalCourses": 18,
             "finishedCourses": 8,
