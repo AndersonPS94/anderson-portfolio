@@ -2,6 +2,15 @@
     "id": 8092755,
     "courseProgresses": [
         {
+            "slug": "redes-introducao",
+            "finished": false,
+            "name": "Redes parte 1: conceitos e prática",
+            "lastAccessTime": 1770815804000,
+            "id": 494,
+            "progress": 22,
+            "readyToFinish": false
+        },
+        {
             "slug": "robot-framework-testes-padrao-bdd",
             "finished": false,
             "name": "Robot Framework: automatizando testes no padrão BDD",
@@ -35,15 +44,6 @@
             "lastAccessTime": 1768914547000,
             "id": 4925,
             "progress": 16,
-            "readyToFinish": false
-        },
-        {
-            "slug": "ciberseguranca-fundamentos-praticas-integradas",
-            "finished": false,
-            "name": "Cibersegurança: Fundamentos e práticas integradas",
-            "lastAccessTime": 1768581358000,
-            "id": 4599,
-            "progress": 6,
             "readyToFinish": false
         }
     ],
@@ -319,7 +319,7 @@
             "code": "curso-suporte-tecnico-n2-marcelo-cabral-1580739495752",
             "name": "Curso Suporte Técnico N2",
             "url": "/curso-suporte-tecnico-n2-marcelo-cabral-1580739495752-p13212",
-            "lastAccessTime": 1763428911000,
+            "lastAccessTime": 1770815804000,
             "kind": "USER_GUIDE",
             "totalCourses": 5,
             "finishedCourses": 0,
@@ -417,7 +417,7 @@
             "code": "infraestrutura-e-suporte-de-ti-brunodivino-1632490073679",
             "name": "Infraestrutura e Suporte de TI",
             "url": "/infraestrutura-e-suporte-de-ti-brunodivino-1632490073679-p225763",
-            "lastAccessTime": 1770757087000,
+            "lastAccessTime": 1770812615000,
             "kind": "USER_GUIDE",
             "totalCourses": 47,
             "finishedCourses": 3,
@@ -459,7 +459,7 @@
             "code": "warm-up-defensive-cyber-security-blue-team-operations-80458",
             "name": "Warm Up: Defensive Cyber Security – Blue Team Operations",
             "url": "/corp/warm-up-defensive-cyber-security-blue-team-operations-80458-p529314",
-            "lastAccessTime": 1770757087000,
+            "lastAccessTime": 1770812615000,
             "kind": "STUDY_PLAN",
             "totalCourses": 18,
             "finishedCourses": 9,
