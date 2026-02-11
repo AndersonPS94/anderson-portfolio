@@ -2,15 +2,6 @@
     "id": 8092755,
     "courseProgresses": [
         {
-            "slug": "arquitetura-computadores-funcionamento-programa",
-            "finished": false,
-            "name": "Arquitetura de computadores: por trás de como seu programa funciona",
-            "lastAccessTime": 1770756719000,
-            "id": 1943,
-            "progress": 90,
-            "readyToFinish": true
-        },
-        {
             "slug": "robot-framework-testes-padrao-bdd",
             "finished": false,
             "name": "Robot Framework: automatizando testes no padrão BDD",
@@ -44,6 +35,15 @@
             "lastAccessTime": 1768914547000,
             "id": 4925,
             "progress": 16,
+            "readyToFinish": false
+        },
+        {
+            "slug": "ciberseguranca-fundamentos-praticas-integradas",
+            "finished": false,
+            "name": "Cibersegurança: Fundamentos e práticas integradas",
+            "lastAccessTime": 1768581358000,
+            "id": 4599,
+            "progress": 6,
             "readyToFinish": false
         }
     ],
@@ -406,7 +406,7 @@
             "lastAccessTime": 1768397662000,
             "kind": "USER_GUIDE",
             "totalCourses": 29,
-            "finishedCourses": 4,
+            "finishedCourses": 5,
             "totalSteps": 13,
             "finishedSteps": 2,
             "color": "#169ec2",
@@ -417,12 +417,12 @@
             "code": "infraestrutura-e-suporte-de-ti-brunodivino-1632490073679",
             "name": "Infraestrutura e Suporte de TI",
             "url": "/infraestrutura-e-suporte-de-ti-brunodivino-1632490073679-p225763",
-            "lastAccessTime": 1770756719000,
+            "lastAccessTime": 1770757087000,
             "kind": "USER_GUIDE",
             "totalCourses": 47,
-            "finishedCourses": 2,
+            "finishedCourses": 3,
             "totalSteps": 19,
-            "finishedSteps": 2,
+            "finishedSteps": 3,
             "color": "#b1529c",
             "author": "Bruno Divino"
         },
@@ -459,12 +459,12 @@
             "code": "warm-up-defensive-cyber-security-blue-team-operations-80458",
             "name": "Warm Up: Defensive Cyber Security – Blue Team Operations",
             "url": "/corp/warm-up-defensive-cyber-security-blue-team-operations-80458-p529314",
-            "lastAccessTime": 1770756719000,
+            "lastAccessTime": 1770757087000,
             "kind": "STUDY_PLAN",
             "totalCourses": 18,
-            "finishedCourses": 8,
+            "finishedCourses": 9,
             "totalSteps": 12,
-            "finishedSteps": 8,
+            "finishedSteps": 9,
             "color": "#0e0d0e",
             "author": ""
         }
