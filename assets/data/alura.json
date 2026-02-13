@@ -5,10 +5,10 @@
             "slug": "redes-introducao",
             "finished": false,
             "name": "Redes parte 1: conceitos e prática",
-            "lastAccessTime": 1770895947000,
+            "lastAccessTime": 1770993647000,
             "id": 494,
-            "progress": 25,
-            "readyToFinish": false
+            "progress": 61,
+            "readyToFinish": true
         },
         {
             "slug": "robot-framework-testes-padrao-bdd",
@@ -319,7 +319,7 @@
             "code": "curso-suporte-tecnico-n2-marcelo-cabral-1580739495752",
             "name": "Curso Suporte Técnico N2",
             "url": "/curso-suporte-tecnico-n2-marcelo-cabral-1580739495752-p13212",
-            "lastAccessTime": 1770895947000,
+            "lastAccessTime": 1770993647000,
             "kind": "USER_GUIDE",
             "totalCourses": 5,
             "finishedCourses": 0,
