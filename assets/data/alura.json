@@ -2,13 +2,22 @@
     "id": 8092755,
     "courseProgresses": [
         {
-            "slug": "robot-framework-testes-padrao-bdd",
+            "slug": "redes-montando-um-projeto-cliente-ate-o-provedor",
             "finished": false,
-            "name": "Robot Framework: automatizando testes no padrão BDD",
-            "lastAccessTime": 1771008414000,
-            "id": 2896,
-            "progress": 73,
-            "readyToFinish": true
+            "name": "Redes parte 2: montando um projeto do cliente até o provedor de serviços",
+            "lastAccessTime": 1771025010000,
+            "id": 563,
+            "progress": 23,
+            "readyToFinish": false
+        },
+        {
+            "slug": "redes-parte-3-aplicando-acl-e-configuracao-nat",
+            "finished": false,
+            "name": "Redes parte 3: defina as listas de controle e políticas de acesso de usuários",
+            "lastAccessTime": 1771020119000,
+            "id": 566,
+            "progress": 0,
+            "readyToFinish": false
         },
         {
             "slug": "introducao-a-programacao-com-c-parte-1",
@@ -35,15 +44,6 @@
             "lastAccessTime": 1768914547000,
             "id": 4925,
             "progress": 16,
-            "readyToFinish": false
-        },
-        {
-            "slug": "ciberseguranca-fundamentos-praticas-integradas",
-            "finished": false,
-            "name": "Cibersegurança: Fundamentos e práticas integradas",
-            "lastAccessTime": 1768581358000,
-            "id": 4599,
-            "progress": 6,
             "readyToFinish": false
         }
     ],
@@ -115,20 +115,6 @@
             "finishedCourses": 0,
             "totalSteps": 9,
             "finishedSteps": 0,
-            "color": "#57c478",
-            "author": ""
-        },
-        {
-            "id": 281969,
-            "code": "carreira-tester-qa",
-            "name": "Carreira QA: processos e automação de testes",
-            "url": "/formacao-carreira-tester-qa",
-            "lastAccessTime": 1771008414000,
-            "kind": "DEGREE",
-            "totalCourses": 6,
-            "finishedCourses": 5,
-            "totalSteps": 16,
-            "finishedSteps": 7,
             "color": "#57c478",
             "author": ""
         },
@@ -305,7 +291,7 @@
             "code": "redes",
             "name": "Redes de computadores",
             "url": "/formacao-redes",
-            "lastAccessTime": 1768397662000,
+            "lastAccessTime": 1771020119000,
             "kind": "DEGREE",
             "totalCourses": 4,
             "finishedCourses": 0,
@@ -319,7 +305,7 @@
             "code": "curso-suporte-tecnico-n2-marcelo-cabral-1580739495752",
             "name": "Curso Suporte Técnico N2",
             "url": "/curso-suporte-tecnico-n2-marcelo-cabral-1580739495752-p13212",
-            "lastAccessTime": 1771004289000,
+            "lastAccessTime": 1771020119000,
             "kind": "USER_GUIDE",
             "totalCourses": 5,
             "finishedCourses": 1,
