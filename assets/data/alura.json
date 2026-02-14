@@ -5,9 +5,18 @@
             "slug": "redes-montando-um-projeto-cliente-ate-o-provedor",
             "finished": false,
             "name": "Redes parte 2: montando um projeto do cliente até o provedor de serviços",
-            "lastAccessTime": 1771025010000,
+            "lastAccessTime": 1771086160000,
             "id": 563,
             "progress": 23,
+            "readyToFinish": false
+        },
+        {
+            "slug": "gestao-agil-conceitos-agilidade",
+            "finished": false,
+            "name": "Gestão Ágil: explorando conceitos da agilidade",
+            "lastAccessTime": 1771082939000,
+            "id": 3168,
+            "progress": 9,
             "readyToFinish": false
         },
         {
@@ -36,15 +45,6 @@
             "id": 5336,
             "progress": 0,
             "readyToFinish": false
-        },
-        {
-            "slug": "flutter-arquitetura-navegacao",
-            "finished": false,
-            "name": "Flutter: Arquitetura e Navegação",
-            "lastAccessTime": 1768914547000,
-            "id": 4925,
-            "progress": 16,
-            "readyToFinish": false
         }
     ],
     "guides": [
@@ -53,7 +53,7 @@
             "code": "gestao-agil-projetos",
             "name": "Gestão Ágil de Projetos",
             "url": "/formacao-gestao-agil-projetos",
-            "lastAccessTime": 1770426009000,
+            "lastAccessTime": 1771082939000,
             "kind": "DEGREE",
             "totalCourses": 11,
             "finishedCourses": 0,
@@ -235,7 +235,7 @@
             "code": "ui-design",
             "name": "UI Design",
             "url": "/career/path/ui-design",
-            "lastAccessTime": 1763566394000,
+            "lastAccessTime": 1771082939000,
             "kind": "CAREER_PATH",
             "totalCourses": 25,
             "finishedCourses": 0,
