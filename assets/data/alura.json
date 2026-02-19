@@ -2,22 +2,49 @@
     "id": 8092755,
     "courseProgresses": [
         {
-            "slug": "redes-montando-um-projeto-cliente-ate-o-provedor",
+            "slug": "linux-ubuntu",
+            "finished": true,
+            "name": "Linux I: conhecendo e utilizando o terminal",
+            "lastAccessTime": 1768223618000,
+            "id": 118,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "linux-ubuntu-processos",
+            "finished": true,
+            "name": "Linux II: programas, processos e pacotes",
+            "lastAccessTime": 1768397662000,
+            "id": 122,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "introducao-a-programacao-com-c-parte-1",
             "finished": false,
-            "name": "Redes parte 2: montando um projeto do cliente até o provedor de serviços",
-            "lastAccessTime": 1771449699000,
-            "id": 563,
-            "progress": 47,
+            "name": "C: conhecendo a Linguagem das Linguagens",
+            "lastAccessTime": 1770502504000,
+            "id": 225,
+            "progress": 8,
             "readyToFinish": false
         },
         {
-            "slug": "gestao-agil-conceitos-agilidade",
+            "slug": "redes-introducao",
+            "finished": true,
+            "name": "Redes parte 1: conceitos e prática",
+            "lastAccessTime": 1771004289000,
+            "id": 494,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "redes-montando-um-projeto-cliente-ate-o-provedor",
             "finished": false,
-            "name": "Gestão Ágil: explorando conceitos da agilidade",
-            "lastAccessTime": 1771082939000,
-            "id": 3168,
-            "progress": 9,
-            "readyToFinish": false
+            "name": "Redes parte 2: montando um projeto do cliente até o provedor de serviços",
+            "lastAccessTime": 1771508461000,
+            "id": 563,
+            "progress": 86,
+            "readyToFinish": true
         },
         {
             "slug": "redes-parte-3-aplicando-acl-e-configuracao-nat",
@@ -29,13 +56,346 @@
             "readyToFinish": false
         },
         {
-            "slug": "introducao-a-programacao-com-c-parte-1",
+            "slug": "vim",
+            "finished": true,
+            "name": "Vim: boas práticas a edição no terminal",
+            "lastAccessTime": 1770153618000,
+            "id": 651,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "powershell-parte1",
+            "finished": true,
+            "name": "PowerShell parte 1: a linguagem de scripting moderna",
+            "lastAccessTime": 1767721721000,
+            "id": 656,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "powershell-parte2",
+            "finished": true,
+            "name": "PowerShell parte 2: Sessões, Jobs e Administração Remota",
+            "lastAccessTime": 1768063411000,
+            "id": 699,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "arquitetura-computadores-funcionamento-programa",
+            "finished": true,
+            "name": "Arquitetura de computadores: por trás de como seu programa funciona",
+            "lastAccessTime": 1770812615000,
+            "id": 1943,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "linux-onboarding-utilizar-cli-forma-rapida-pratica",
+            "finished": true,
+            "name": "Linux Onboarding: usando a CLI de uma forma rápida e prática",
+            "lastAccessTime": 1769517419000,
+            "id": 2288,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "linux-onboarding-informacoes-sistema",
+            "finished": true,
+            "name": "Linux Onboarding: obtendo e tratando informações do sistema",
+            "lastAccessTime": 1768917810000,
+            "id": 2290,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "linux-onboarding-usuarios-permissoes-dispositivos",
+            "finished": true,
+            "name": "Linux Onboarding: trabalhe com usuários, permissões e dispositivos",
+            "lastAccessTime": 1769009299000,
+            "id": 2291,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "quality-assurance-plano-testes-gestao-bugs",
+            "finished": true,
+            "name": "Quality Assurance: plano de testes e gestão de bugs",
+            "lastAccessTime": 1770227911000,
+            "id": 2379,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "pentest-explorando-vulnerabilidades-aplicacoes-web",
+            "finished": true,
+            "name": "Pentest: explorando vulnerabilidades em aplicações web",
+            "lastAccessTime": 1768662463000,
+            "id": 2518,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "robot-framework-testes-padrao-bdd",
+            "finished": true,
+            "name": "Robot Framework: automatizando testes no padrão BDD",
+            "lastAccessTime": 1771345173000,
+            "id": 2896,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "governanca-ti-gerencie-servicos-fortaleca-seguranca",
+            "finished": true,
+            "name": "Governança de TI: gerencie serviços e fortaleça a segurança",
+            "lastAccessTime": 1764592465000,
+            "id": 2997,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "gestao-agil-conceitos-agilidade",
             "finished": false,
-            "name": "C: conhecendo a Linguagem das Linguagens",
-            "lastAccessTime": 1770502504000,
-            "id": 225,
-            "progress": 8,
+            "name": "Gestão Ágil: explorando conceitos da agilidade",
+            "lastAccessTime": 1771082939000,
+            "id": 3168,
+            "progress": 9,
             "readyToFinish": false
+        },
+        {
+            "slug": "logica-programacao-mergulhe-programacao-javascript",
+            "finished": true,
+            "name": "Lógica de programação: mergulhe em programação com JavaScript",
+            "lastAccessTime": 1770295883000,
+            "id": 3270,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "equipes-ageis-organizando-papeis-equipe",
+            "finished": true,
+            "name": "Equipes ágeis: organizando os papéis em uma equipe",
+            "lastAccessTime": 1770503602000,
+            "id": 3319,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "git-github-compartilhando-colaborando-projetos",
+            "finished": true,
+            "name": "Git e GitHub: compartilhando e colaborando em projetos",
+            "lastAccessTime": 1770395966000,
+            "id": 3386,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "cypress-automatizando-testes-e2e",
+            "finished": true,
+            "name": "Cypress: automatizando testes E2E",
+            "lastAccessTime": 1770590706000,
+            "id": 3629,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "governanca-dados-explorando-conceitos-fundamentais",
+            "finished": true,
+            "name": "Governança de dados: explorando os conceitos fundamentais",
+            "lastAccessTime": 1763654201000,
+            "id": 3713,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "governanca-dados-garantindo-privacidade-protecao-dados-futuro-seguro",
+            "finished": true,
+            "name": "Governança de dados: garantindo privacidade e proteção de dados para um futuro seguro",
+            "lastAccessTime": 1763443390000,
+            "id": 3718,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "autolideranca-planejando-desenvolvimento-pessoal",
+            "finished": true,
+            "name": "Autoliderança: planejando o desenvolvimento pessoal",
+            "lastAccessTime": 1766239580000,
+            "id": 3725,
+            "progress": 97,
+            "readyToFinish": true
+        },
+        {
+            "slug": "ciberseguranca-para-todos-proteja-empresa-contra-ciberataques",
+            "finished": true,
+            "name": "Segurança da Informação para todos: Proteja você e sua empresa contra ameaças cibernéticas",
+            "lastAccessTime": 1769099268000,
+            "id": 3757,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "lgpd-conhecendo-legislacao-proteger-dados-pessoais",
+            "finished": true,
+            "name": "LGPD: conhecendo a legislação para proteger dados pessoais",
+            "lastAccessTime": 1764600554000,
+            "id": 3780,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "dart-trabalhando-sintaxe-configuracao-projeto",
+            "finished": true,
+            "name": "Dart: trabalhando com a sintaxe e configuração de projeto",
+            "lastAccessTime": 1763564506000,
+            "id": 3997,
+            "progress": 98,
+            "readyToFinish": true
+        },
+        {
+            "slug": "dart-trabalhando-orientacao-objetos",
+            "finished": true,
+            "name": "Dart: trabalhando com orientação a objetos",
+            "lastAccessTime": 1764766255000,
+            "id": 3998,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "dart-dominando-assincronismo-criando-comunicacao-apis",
+            "finished": true,
+            "name": "Dart: dominando assincronismo e criando comunicação com APIs",
+            "lastAccessTime": 1765462195000,
+            "id": 3999,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "dart-lidando-erros-excecoes-null-safety",
+            "finished": true,
+            "name": "Dart: lidando com erros, exceções e null safety",
+            "lastAccessTime": 1768684544000,
+            "id": 4005,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "ciberseguranca-conhecendo-usos-ia-seguranca",
+            "finished": true,
+            "name": "Cibersegurança: conhecendo os usos de IA para segurança",
+            "lastAccessTime": 1769637667000,
+            "id": 4289,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "praticando-collections-dart-listas-sets-mapas",
+            "finished": true,
+            "name": "Praticando Collections no Dart: listas, sets e mapas",
+            "lastAccessTime": 1763566596000,
+            "id": 4527,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "ciberseguranca-fundamentos-praticas-integradas",
+            "finished": false,
+            "name": "Cibersegurança: Fundamentos e práticas integradas",
+            "lastAccessTime": 1768581358000,
+            "id": 4599,
+            "progress": 6,
+            "readyToFinish": false
+        },
+        {
+            "slug": "linux-ciberseguranca",
+            "finished": false,
+            "name": "Linux para cibersegurança: administração, shell scripting e Kali Linux",
+            "lastAccessTime": 1766239616000,
+            "id": 4818,
+            "progress": 15,
+            "readyToFinish": false
+        },
+        {
+            "slug": "flutter-arquitetura-navegacao",
+            "finished": false,
+            "name": "Flutter: Arquitetura e Navegação",
+            "lastAccessTime": 1768914547000,
+            "id": 4925,
+            "progress": 16,
+            "readyToFinish": false
+        },
+        {
+            "slug": "social-media-os-pilares-das-midias-sociais",
+            "finished": true,
+            "name": "Social media: os pilares das mídias sociais",
+            "lastAccessTime": 1763932821000,
+            "id": 4950,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "social-media-pesquisa-e-planejamento-de-midias-sociais",
+            "finished": false,
+            "name": "Social media: pesquisa e planejamento de mídias sociais",
+            "lastAccessTime": 1766063082000,
+            "id": 4953,
+            "progress": 11,
+            "readyToFinish": false
+        },
+        {
+            "slug": "fundamentos-do-marketing-digital",
+            "finished": true,
+            "name": "Marketing Digital: Evolução e tendências na era digital",
+            "lastAccessTime": 1763828166000,
+            "id": 4956,
+            "progress": 97,
+            "readyToFinish": true
+        },
+        {
+            "slug": "flutter-desenvolvendo-primeiro-app",
+            "finished": true,
+            "name": "Flutter: introdução ao desenvolvimento de aplicativos móveis",
+            "lastAccessTime": 1768852556000,
+            "id": 4958,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "carreira-social-media-boas-vindas",
+            "finished": true,
+            "name": "Carreira Social Media: Boas-vindas e primeiros passos",
+            "lastAccessTime": 1763747956000,
+            "id": 5206,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "carreira-flutter-boas-vindas",
+            "finished": true,
+            "name": "Carreira Desenvolvedor(a) Flutter: Boas-vindas e primeiros passos",
+            "lastAccessTime": 1763405883000,
+            "id": 5212,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "carreira-lideranca-boas-vindas",
+            "finished": true,
+            "name": "Carreira Liderança: boas-vindas e primeiros passos",
+            "lastAccessTime": 1766063507000,
+            "id": 5215,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "carreira-growth-marketing-boas-vindas-primeiros-passos",
+            "finished": true,
+            "name": "Carreira Growth Marketing: Boas vindas e primeiros passos",
+            "lastAccessTime": 1763828243000,
+            "id": 5241,
+            "progress": 100,
+            "readyToFinish": true
         },
         {
             "slug": "flutter-pipelines-github-actions-fastlane",
