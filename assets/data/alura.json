@@ -41,9 +41,9 @@
             "slug": "redes-montando-um-projeto-cliente-ate-o-provedor",
             "finished": false,
             "name": "Redes parte 2: montando um projeto do cliente até o provedor de serviços",
-            "lastAccessTime": 1771508461000,
+            "lastAccessTime": 1771514522000,
             "id": 563,
-            "progress": 86,
+            "progress": 91,
             "readyToFinish": true
         },
         {
@@ -499,9 +499,9 @@
             "url": "/career/path/appsec",
             "lastAccessTime": 1768581358000,
             "kind": "CAREER_PATH",
-            "totalCourses": 22,
+            "totalCourses": 23,
             "finishedCourses": 0,
-            "totalSteps": 22,
+            "totalSteps": 23,
             "finishedSteps": 0,
             "color": "#e16a69",
             "author": ""
