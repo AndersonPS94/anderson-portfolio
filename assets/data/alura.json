@@ -95,10 +95,10 @@
             "slug": "redes-wifi",
             "finished": false,
             "name": "Redes parte 5: Wi-FI",
-            "lastAccessTime": 1771961972000,
+            "lastAccessTime": 1772460976000,
             "id": 943,
-            "progress": 47,
-            "readyToFinish": false
+            "progress": 82,
+            "readyToFinish": true
         },
         {
             "slug": "arquitetura-computadores-funcionamento-programa",
@@ -725,7 +725,7 @@
             "code": "redes",
             "name": "Redes de computadores",
             "url": "/formacao-redes",
-            "lastAccessTime": 1771961972000,
+            "lastAccessTime": 1772460976000,
             "kind": "DEGREE",
             "totalCourses": 4,
             "finishedCourses": 0,
