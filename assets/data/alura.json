@@ -41,10 +41,10 @@
             "slug": "seguranca-redes",
             "finished": false,
             "name": "Segurança de redes: conheça as vulnerabilidades de servidores e clientes",
-            "lastAccessTime": 1772633643000,
+            "lastAccessTime": 1772654424000,
             "id": 547,
-            "progress": 26,
-            "readyToFinish": false
+            "progress": 82,
+            "readyToFinish": true
         },
         {
             "slug": "pfsense-iptables",
@@ -491,7 +491,7 @@
             "code": "trila-suporte-tecnico-irocha1-1658335903320",
             "name": "Trilha Suporte Técnico",
             "url": "/trila-suporte-tecnico-irocha1-1658335903320-p408403",
-            "lastAccessTime": 1772633643000,
+            "lastAccessTime": 1772654424000,
             "kind": "USER_GUIDE",
             "totalCourses": 32,
             "finishedCourses": 10,
@@ -757,7 +757,7 @@
             "code": "curso-suporte-tecnico-n2-marcelo-cabral-1580739495752",
             "name": "Curso Suporte Técnico N2",
             "url": "/curso-suporte-tecnico-n2-marcelo-cabral-1580739495752-p13212",
-            "lastAccessTime": 1772633643000,
+            "lastAccessTime": 1772654424000,
             "kind": "USER_GUIDE",
             "totalCourses": 5,
             "finishedCourses": 3,
