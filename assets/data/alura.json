@@ -137,6 +137,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "linux-onboarding-arquivos-conteudos",
+            "finished": false,
+            "name": "Linux Onboarding: localizando arquivos e conteúdos",
+            "lastAccessTime": 1772658759000,
+            "id": 2289,
+            "progress": 0,
+            "readyToFinish": false
+        },
+        {
             "slug": "linux-onboarding-informacoes-sistema",
             "finished": true,
             "name": "Linux Onboarding: obtendo e tratando informações do sistema",
@@ -171,6 +180,15 @@
             "id": 2518,
             "progress": 100,
             "readyToFinish": true
+        },
+        {
+            "slug": "jornada-cliente-estrategias-engajamento-dia-a-dia",
+            "finished": false,
+            "name": "Jornada do cliente: aplique estratégias de engajamento no dia a dia",
+            "lastAccessTime": 1772659938000,
+            "id": 2696,
+            "progress": 8,
+            "readyToFinish": false
         },
         {
             "slug": "robot-framework-testes-padrao-bdd",
@@ -445,6 +463,62 @@
     ],
     "guides": [
         {
+            "id": 463792,
+            "code": "tecnico-de-suporte-de-ti-pablo-alura42-1665841339209",
+            "name": "Técnico de Suporte de TI",
+            "url": "/tecnico-de-suporte-de-ti-pablo-alura42-1665841339209-p463792",
+            "lastAccessTime": 1772659080000,
+            "kind": "USER_GUIDE",
+            "totalCourses": 25,
+            "finishedCourses": 8,
+            "totalSteps": 6,
+            "finishedSteps": 0,
+            "color": "#1dc188",
+            "author": "Pablo Andrade Fernandes"
+        },
+        {
+            "id": 515205,
+            "code": "certificacao-az-900-microsoft-azure-fundamentals",
+            "name": "Certificação AZ-900: Microsoft Azure Fundamentals",
+            "url": "/formacao-certificacao-az-900-microsoft-azure-fundamentals",
+            "lastAccessTime": 1772659024000,
+            "kind": "DEGREE",
+            "totalCourses": 6,
+            "finishedCourses": 0,
+            "totalSteps": 6,
+            "finishedSteps": 0,
+            "color": "#e16a69",
+            "author": ""
+        },
+        {
+            "id": 582659,
+            "code": "ux",
+            "name": "UX Design",
+            "url": "/formacao-ux",
+            "lastAccessTime": 1772658981000,
+            "kind": "DEGREE",
+            "totalCourses": 5,
+            "finishedCourses": 0,
+            "totalSteps": 9,
+            "finishedSteps": 0,
+            "color": "#cf75ba",
+            "author": ""
+        },
+        {
+            "id": 1037177,
+            "code": "meu-plano-de-estudos-andressafernandesgxrl-1767930685661",
+            "name": "Para Suporte em TI",
+            "url": "/meu-plano-de-estudos-andressafernandesgxrl-1767930685661-p1037177",
+            "lastAccessTime": 1772658745000,
+            "kind": "USER_GUIDE",
+            "totalCourses": 5,
+            "finishedCourses": 0,
+            "totalSteps": 5,
+            "finishedSteps": 0,
+            "color": "#169ec2",
+            "author": "ANDRESSA DA SILVA FERNANDES"
+        },
+        {
             "id": 442434,
             "code": "amazon-web-services",
             "name": "Começando na AWS com Lightsail, EC2, S3, VPC, RDS e DynamoDB",
@@ -491,7 +565,7 @@
             "code": "trila-suporte-tecnico-irocha1-1658335903320",
             "name": "Trilha Suporte Técnico",
             "url": "/trila-suporte-tecnico-irocha1-1658335903320-p408403",
-            "lastAccessTime": 1772654424000,
+            "lastAccessTime": 1772658759000,
             "kind": "USER_GUIDE",
             "totalCourses": 32,
             "finishedCourses": 10,
@@ -846,7 +920,7 @@
             "totalCourses": 29,
             "finishedCourses": 10,
             "totalSteps": 13,
-            "finishedSteps": 3,
+            "finishedSteps": 4,
             "color": "#169ec2",
             "author": "Emanuel Edvan da Silva"
         },
@@ -860,7 +934,7 @@
             "totalCourses": 47,
             "finishedCourses": 8,
             "totalSteps": 19,
-            "finishedSteps": 3,
+            "finishedSteps": 4,
             "color": "#b1529c",
             "author": "Bruno Divino"
         },
