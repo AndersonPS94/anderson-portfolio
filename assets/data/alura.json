@@ -50,7 +50,7 @@
             "slug": "pfsense-iptables",
             "finished": false,
             "name": "Segurança de redes: crie um firewall com pfSense e iptables",
-            "lastAccessTime": 1772724568000,
+            "lastAccessTime": 1772733325000,
             "id": 558,
             "progress": 30,
             "readyToFinish": false
@@ -565,7 +565,7 @@
             "code": "trila-suporte-tecnico-irocha1-1658335903320",
             "name": "Trilha Suporte Técnico",
             "url": "/trila-suporte-tecnico-irocha1-1658335903320-p408403",
-            "lastAccessTime": 1772724568000,
+            "lastAccessTime": 1772733325000,
             "kind": "USER_GUIDE",
             "totalCourses": 32,
             "finishedCourses": 11,
