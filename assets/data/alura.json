@@ -50,9 +50,9 @@
             "slug": "pfsense-iptables",
             "finished": false,
             "name": "Segurança de redes: crie um firewall com pfSense e iptables",
-            "lastAccessTime": 1772733325000,
+            "lastAccessTime": 1772742903000,
             "id": 558,
-            "progress": 30,
+            "progress": 31,
             "readyToFinish": false
         },
         {
@@ -463,6 +463,20 @@
     ],
     "guides": [
         {
+            "id": 459971,
+            "code": "ciberseguranca",
+            "name": "Cibersegurança",
+            "url": "/formacao-ciberseguranca",
+            "lastAccessTime": 1768662463000,
+            "kind": "DEGREE",
+            "totalCourses": 6,
+            "finishedCourses": 1,
+            "totalSteps": 11,
+            "finishedSteps": 1,
+            "color": "#e16a69",
+            "author": ""
+        },
+        {
             "id": 463792,
             "code": "tecnico-de-suporte-de-ti-pablo-alura42-1665841339209",
             "name": "Técnico de Suporte de TI",
@@ -565,7 +579,7 @@
             "code": "trila-suporte-tecnico-irocha1-1658335903320",
             "name": "Trilha Suporte Técnico",
             "url": "/trila-suporte-tecnico-irocha1-1658335903320-p408403",
-            "lastAccessTime": 1772733325000,
+            "lastAccessTime": 1772742903000,
             "kind": "USER_GUIDE",
             "totalCourses": 32,
             "finishedCourses": 11,
@@ -937,20 +951,6 @@
             "finishedSteps": 4,
             "color": "#b1529c",
             "author": "Bruno Divino"
-        },
-        {
-            "id": 459971,
-            "code": "ciberseguranca",
-            "name": "Cibersegurança",
-            "url": "/formacao-ciberseguranca",
-            "lastAccessTime": 1768662463000,
-            "kind": "DEGREE",
-            "totalCourses": 6,
-            "finishedCourses": 1,
-            "totalSteps": 11,
-            "finishedSteps": 1,
-            "color": "#e16a69",
-            "author": ""
         },
         {
             "id": 977899,
