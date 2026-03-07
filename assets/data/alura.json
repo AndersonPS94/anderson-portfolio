@@ -50,9 +50,9 @@
             "slug": "pfsense-iptables",
             "finished": false,
             "name": "Segurança de redes: crie um firewall com pfSense e iptables",
-            "lastAccessTime": 1772742903000,
+            "lastAccessTime": 1772892481000,
             "id": 558,
-            "progress": 31,
+            "progress": 39,
             "readyToFinish": false
         },
         {
@@ -374,9 +374,9 @@
             "slug": "flutter-arquitetura-navegacao",
             "finished": false,
             "name": "Flutter: Arquitetura e Navegação",
-            "lastAccessTime": 1772852133000,
+            "lastAccessTime": 1772891060000,
             "id": 4925,
-            "progress": 16,
+            "progress": 54,
             "readyToFinish": false
         },
         {
@@ -579,7 +579,7 @@
             "code": "trila-suporte-tecnico-irocha1-1658335903320",
             "name": "Trilha Suporte Técnico",
             "url": "/trila-suporte-tecnico-irocha1-1658335903320-p408403",
-            "lastAccessTime": 1772742903000,
+            "lastAccessTime": 1772892481000,
             "kind": "USER_GUIDE",
             "totalCourses": 32,
             "finishedCourses": 11,
@@ -957,7 +957,7 @@
             "code": "desenvolvimento-mobile-com-flutter",
             "name": "Desenvolvimento Mobile com Flutter",
             "url": "/career/path/desenvolvimento-mobile-com-flutter",
-            "lastAccessTime": 1772852133000,
+            "lastAccessTime": 1772891060000,
             "kind": "CAREER_PATH",
             "totalCourses": 34,
             "finishedCourses": 6,
