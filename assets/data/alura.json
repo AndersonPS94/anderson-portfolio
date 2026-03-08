@@ -50,10 +50,10 @@
             "slug": "pfsense-iptables",
             "finished": false,
             "name": "Segurança de redes: crie um firewall com pfSense e iptables",
-            "lastAccessTime": 1772908471000,
+            "lastAccessTime": 1773001628000,
             "id": 558,
-            "progress": 39,
-            "readyToFinish": false
+            "progress": 63,
+            "readyToFinish": true
         },
         {
             "slug": "redes-montando-um-projeto-cliente-ate-o-provedor",
@@ -374,7 +374,7 @@
             "slug": "flutter-arquitetura-navegacao",
             "finished": true,
             "name": "Flutter: Arquitetura e Navegação",
-            "lastAccessTime": 1772983364000,
+            "lastAccessTime": 1772983740000,
             "id": 4925,
             "progress": 100,
             "readyToFinish": true
@@ -414,6 +414,15 @@
             "id": 4958,
             "progress": 100,
             "readyToFinish": true
+        },
+        {
+            "slug": "flutter-testes-ferramentas-desenvolvedor",
+            "finished": false,
+            "name": "Flutter: Estratégias de Teste e Depuração",
+            "lastAccessTime": 1772989940000,
+            "id": 5140,
+            "progress": 7,
+            "readyToFinish": false
         },
         {
             "slug": "carreira-social-media-boas-vindas",
@@ -579,7 +588,7 @@
             "code": "trila-suporte-tecnico-irocha1-1658335903320",
             "name": "Trilha Suporte Técnico",
             "url": "/trila-suporte-tecnico-irocha1-1658335903320-p408403",
-            "lastAccessTime": 1772908471000,
+            "lastAccessTime": 1773001628000,
             "kind": "USER_GUIDE",
             "totalCourses": 32,
             "finishedCourses": 11,
@@ -957,7 +966,7 @@
             "code": "desenvolvimento-mobile-com-flutter",
             "name": "Desenvolvimento Mobile com Flutter",
             "url": "/career/path/desenvolvimento-mobile-com-flutter",
-            "lastAccessTime": 1772983364000,
+            "lastAccessTime": 1772989940000,
             "kind": "CAREER_PATH",
             "totalCourses": 34,
             "finishedCourses": 7,
