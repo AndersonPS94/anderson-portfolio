@@ -374,10 +374,10 @@
             "slug": "flutter-arquitetura-navegacao",
             "finished": false,
             "name": "Flutter: Arquitetura e Navegação",
-            "lastAccessTime": 1772901583000,
+            "lastAccessTime": 1772923972000,
             "id": 4925,
-            "progress": 54,
-            "readyToFinish": false
+            "progress": 77,
+            "readyToFinish": true
         },
         {
             "slug": "social-media-os-pilares-das-midias-sociais",
@@ -957,7 +957,7 @@
             "code": "desenvolvimento-mobile-com-flutter",
             "name": "Desenvolvimento Mobile com Flutter",
             "url": "/career/path/desenvolvimento-mobile-com-flutter",
-            "lastAccessTime": 1772901583000,
+            "lastAccessTime": 1772923972000,
             "kind": "CAREER_PATH",
             "totalCourses": 34,
             "finishedCourses": 6,
