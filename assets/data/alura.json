@@ -372,11 +372,11 @@
         },
         {
             "slug": "flutter-arquitetura-navegacao",
-            "finished": false,
+            "finished": true,
             "name": "Flutter: Arquitetura e Navegação",
-            "lastAccessTime": 1772923972000,
+            "lastAccessTime": 1772983364000,
             "id": 4925,
-            "progress": 77,
+            "progress": 100,
             "readyToFinish": true
         },
         {
@@ -957,12 +957,12 @@
             "code": "desenvolvimento-mobile-com-flutter",
             "name": "Desenvolvimento Mobile com Flutter",
             "url": "/career/path/desenvolvimento-mobile-com-flutter",
-            "lastAccessTime": 1772923972000,
+            "lastAccessTime": 1772983364000,
             "kind": "CAREER_PATH",
             "totalCourses": 34,
-            "finishedCourses": 6,
+            "finishedCourses": 7,
             "totalSteps": 34,
-            "finishedSteps": 6,
+            "finishedSteps": 7,
             "color": "#f6bc42",
             "author": ""
         },
