@@ -50,7 +50,7 @@
             "slug": "pfsense-iptables",
             "finished": false,
             "name": "Segurança de redes: crie um firewall com pfSense e iptables",
-            "lastAccessTime": 1773001628000,
+            "lastAccessTime": 1773001771000,
             "id": 558,
             "progress": 63,
             "readyToFinish": true
@@ -245,6 +245,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "technical-writing-estrategias-ferramentas-boas-praticas",
+            "finished": false,
+            "name": "Technical Writing: aprenda estratégias, ferramentas e boas práticas",
+            "lastAccessTime": 1773021415000,
+            "id": 3557,
+            "progress": 28,
+            "readyToFinish": false
+        },
+        {
             "slug": "cypress-automatizando-testes-e2e",
             "finished": true,
             "name": "Cypress: automatizando testes E2E",
@@ -362,6 +371,15 @@
             "readyToFinish": false
         },
         {
+            "slug": "ciberseguranca-fundamentos-praticas-redes",
+            "finished": false,
+            "name": "Cibersegurança: Fundamentos e práticas de redes",
+            "lastAccessTime": 1773019838000,
+            "id": 4817,
+            "progress": 0,
+            "readyToFinish": false
+        },
+        {
             "slug": "linux-ciberseguranca",
             "finished": false,
             "name": "Linux para cibersegurança: administração, shell scripting e Kali Linux",
@@ -471,6 +489,104 @@
         }
     ],
     "guides": [
+        {
+            "id": 474091,
+            "code": "powershell",
+            "name": "PowerShell: automatize suas tarefas",
+            "url": "/formacao-powershell",
+            "lastAccessTime": 1768063411000,
+            "kind": "DEGREE",
+            "totalCourses": 2,
+            "finishedCourses": 2,
+            "totalSteps": 3,
+            "finishedSteps": 3,
+            "color": "#57c478",
+            "author": ""
+        },
+        {
+            "id": 822797,
+            "code": "comecando-linux",
+            "name": "Começando em Linux",
+            "url": "/formacao-comecando-linux",
+            "lastAccessTime": 1773020399000,
+            "kind": "DEGREE",
+            "totalCourses": 3,
+            "finishedCourses": 0,
+            "totalSteps": 7,
+            "finishedSteps": 0,
+            "color": "#e16a69",
+            "author": ""
+        },
+        {
+            "id": 749823,
+            "code": "scripting-automatizando-tarefas-devops",
+            "name": "Scripting: automatizando tarefas em DevOps",
+            "url": "/formacao-scripting-automatizando-tarefas-devops",
+            "lastAccessTime": 1773020348000,
+            "kind": "DEGREE",
+            "totalCourses": 3,
+            "finishedCourses": 0,
+            "totalSteps": 4,
+            "finishedSteps": 0,
+            "color": "#e16a69",
+            "author": ""
+        },
+        {
+            "id": 715314,
+            "code": "primeiros-passos-devops",
+            "name": "Começando em DevOps",
+            "url": "/formacao-primeiros-passos-devops",
+            "lastAccessTime": 1773020346000,
+            "kind": "DEGREE",
+            "totalCourses": 4,
+            "finishedCourses": 0,
+            "totalSteps": 7,
+            "finishedSteps": 0,
+            "color": "#e16a69",
+            "author": ""
+        },
+        {
+            "id": 734132,
+            "code": "technical-writing",
+            "name": "Technical Writing",
+            "url": "/formacao-technical-writing",
+            "lastAccessTime": 1773021415000,
+            "kind": "DEGREE",
+            "totalCourses": 2,
+            "finishedCourses": 0,
+            "totalSteps": 2,
+            "finishedSteps": 0,
+            "color": "#cf75ba",
+            "author": ""
+        },
+        {
+            "id": 734100,
+            "code": "governanca-ti",
+            "name": "Governança de TI",
+            "url": "/formacao-governanca-ti",
+            "lastAccessTime": 1764592465000,
+            "kind": "DEGREE",
+            "totalCourses": 9,
+            "finishedCourses": 1,
+            "totalSteps": 9,
+            "finishedSteps": 1,
+            "color": "#ff8c2a",
+            "author": ""
+        },
+        {
+            "id": 441943,
+            "code": "shell-scripting",
+            "name": "Shell Scripting: automatize tarefas",
+            "url": "/formacao-shell-scripting",
+            "lastAccessTime": 1773019880000,
+            "kind": "DEGREE",
+            "totalCourses": 2,
+            "finishedCourses": 0,
+            "totalSteps": 2,
+            "finishedSteps": 0,
+            "color": "#e16a69",
+            "author": ""
+        },
         {
             "id": 459971,
             "code": "ciberseguranca",
@@ -588,7 +704,7 @@
             "code": "trila-suporte-tecnico-irocha1-1658335903320",
             "name": "Trilha Suporte Técnico",
             "url": "/trila-suporte-tecnico-irocha1-1658335903320-p408403",
-            "lastAccessTime": 1773001628000,
+            "lastAccessTime": 1773001771000,
             "kind": "USER_GUIDE",
             "totalCourses": 32,
             "finishedCourses": 11,
@@ -686,7 +802,7 @@
             "code": "appsec",
             "name": "AppSec: Desenvolvimento Seguro de Aplicações",
             "url": "/career/path/appsec",
-            "lastAccessTime": 1768581358000,
+            "lastAccessTime": 1773019838000,
             "kind": "CAREER_PATH",
             "totalCourses": 23,
             "finishedCourses": 0,
