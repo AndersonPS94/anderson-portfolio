@@ -365,7 +365,7 @@
             "slug": "ciberseguranca-fundamentos-praticas-integradas",
             "finished": false,
             "name": "Cibersegurança: Fundamentos e práticas integradas",
-            "lastAccessTime": 1773087566000,
+            "lastAccessTime": 1773103024000,
             "id": 4599,
             "progress": 6,
             "readyToFinish": false
@@ -383,9 +383,9 @@
             "slug": "linux-ciberseguranca",
             "finished": false,
             "name": "Linux para cibersegurança: administração, shell scripting e Kali Linux",
-            "lastAccessTime": 1773087568000,
+            "lastAccessTime": 1773103017000,
             "id": 4818,
-            "progress": 15,
+            "progress": 28,
             "readyToFinish": false
         },
         {
@@ -410,9 +410,9 @@
             "slug": "social-media-pesquisa-e-planejamento-de-midias-sociais",
             "finished": false,
             "name": "Social media: pesquisa e planejamento de mídias sociais",
-            "lastAccessTime": 1773087574000,
+            "lastAccessTime": 1773103024000,
             "id": 4953,
-            "progress": 11,
+            "progress": 17,
             "readyToFinish": false
         },
         {
@@ -802,7 +802,7 @@
             "code": "appsec",
             "name": "AppSec: Desenvolvimento Seguro de Aplicações",
             "url": "/career/path/appsec",
-            "lastAccessTime": 1773087568000,
+            "lastAccessTime": 1773103024000,
             "kind": "CAREER_PATH",
             "totalCourses": 23,
             "finishedCourses": 0,
@@ -886,7 +886,7 @@
             "code": "social-media-marketing",
             "name": "Social Media Marketing",
             "url": "/career/path/social-media-marketing",
-            "lastAccessTime": 1773087574000,
+            "lastAccessTime": 1773103024000,
             "kind": "CAREER_PATH",
             "totalCourses": 25,
             "finishedCourses": 2,
