@@ -191,6 +191,15 @@
             "readyToFinish": false
         },
         {
+            "slug": "swift-entendendo-linguagem",
+            "finished": false,
+            "name": "Swift: Entendendo a linguagem",
+            "lastAccessTime": 1773343326000,
+            "id": 2821,
+            "progress": 34,
+            "readyToFinish": false
+        },
+        {
             "slug": "robot-framework-testes-padrao-bdd",
             "finished": true,
             "name": "Robot Framework: automatizando testes no padrão BDD",
@@ -353,6 +362,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "react-native-desenvolvendo-expo",
+            "finished": false,
+            "name": "React Native: desenvolvendo com Expo",
+            "lastAccessTime": 1773343325000,
+            "id": 4462,
+            "progress": 15,
+            "readyToFinish": false
+        },
+        {
             "slug": "praticando-collections-dart-listas-sets-mapas",
             "finished": true,
             "name": "Praticando Collections no Dart: listas, sets e mapas",
@@ -489,6 +507,20 @@
         }
     ],
     "guides": [
+        {
+            "id": 736779,
+            "code": "domine-linguagem-swift",
+            "name": "Domine a linguagem Swift",
+            "url": "/formacao-domine-linguagem-swift",
+            "lastAccessTime": 1773343326000,
+            "kind": "DEGREE",
+            "totalCourses": 5,
+            "finishedCourses": 0,
+            "totalSteps": 14,
+            "finishedSteps": 0,
+            "color": "#f6bc42",
+            "author": ""
+        },
         {
             "id": 474091,
             "code": "powershell",
@@ -914,7 +946,7 @@
             "code": "react-native-primeiro-app",
             "name": "React Native: Desenvolva seu primeiro app",
             "url": "/formacao-react-native-primeiro-app",
-            "lastAccessTime": 1763443856000,
+            "lastAccessTime": 1773343325000,
             "kind": "DEGREE",
             "totalCourses": 4,
             "finishedCourses": 0,
