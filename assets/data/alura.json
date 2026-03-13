@@ -192,11 +192,20 @@
         },
         {
             "slug": "swift-entendendo-linguagem",
-            "finished": false,
+            "finished": true,
             "name": "Swift: Entendendo a linguagem",
-            "lastAccessTime": 1773343326000,
+            "lastAccessTime": 1773353637000,
             "id": 2821,
-            "progress": 34,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
+            "slug": "swift-entendendo-praticando-orientacao-objetos",
+            "finished": false,
+            "name": "Swift: entendendo e praticando orientação a objetos",
+            "lastAccessTime": 1773354789000,
+            "id": 2822,
+            "progress": 10,
             "readyToFinish": false
         },
         {
@@ -512,12 +521,12 @@
             "code": "domine-linguagem-swift",
             "name": "Domine a linguagem Swift",
             "url": "/formacao-domine-linguagem-swift",
-            "lastAccessTime": 1773343326000,
+            "lastAccessTime": 1773354789000,
             "kind": "DEGREE",
             "totalCourses": 5,
-            "finishedCourses": 0,
+            "finishedCourses": 1,
             "totalSteps": 14,
-            "finishedSteps": 0,
+            "finishedSteps": 1,
             "color": "#f6bc42",
             "author": ""
         },
