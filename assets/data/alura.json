@@ -212,9 +212,9 @@
             "slug": "ios-construindo-primeiro-aplicativo",
             "finished": false,
             "name": "iOS: construindo seu primeiro aplicativo",
-            "lastAccessTime": 1773448109000,
+            "lastAccessTime": 1773501855000,
             "id": 2823,
-            "progress": 28,
+            "progress": 57,
             "readyToFinish": false
         },
         {
@@ -530,7 +530,7 @@
             "code": "domine-linguagem-swift",
             "name": "Domine a linguagem Swift",
             "url": "/formacao-domine-linguagem-swift",
-            "lastAccessTime": 1773448109000,
+            "lastAccessTime": 1773501855000,
             "kind": "DEGREE",
             "totalCourses": 5,
             "finishedCourses": 2,
