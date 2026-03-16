@@ -131,9 +131,9 @@
             "slug": "ios-auto-layout-constraints",
             "finished": false,
             "name": "iOS: auto layout com Constraints",
-            "lastAccessTime": 1773634839000,
+            "lastAccessTime": 1773679928000,
             "id": 2095,
-            "progress": 33,
+            "progress": 52,
             "readyToFinish": false
         },
         {
@@ -539,7 +539,7 @@
             "code": "domine-linguagem-swift",
             "name": "Domine a linguagem Swift",
             "url": "/formacao-domine-linguagem-swift",
-            "lastAccessTime": 1773634839000,
+            "lastAccessTime": 1773679928000,
             "kind": "DEGREE",
             "totalCourses": 5,
             "finishedCourses": 3,
