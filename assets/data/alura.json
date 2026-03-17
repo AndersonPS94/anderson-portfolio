@@ -246,11 +246,11 @@
         },
         {
             "slug": "ios-swiftui-construindo-componentes-layouts",
-            "finished": false,
+            "finished": true,
             "name": "iOS com SwiftUI: construindo componentes e layouts",
-            "lastAccessTime": 1773720129000,
+            "lastAccessTime": 1773754335000,
             "id": 3152,
-            "progress": 70,
+            "progress": 100,
             "readyToFinish": true
         },
         {
@@ -548,12 +548,12 @@
             "code": "domine-linguagem-swift",
             "name": "Domine a linguagem Swift",
             "url": "/formacao-domine-linguagem-swift",
-            "lastAccessTime": 1773720129000,
+            "lastAccessTime": 1773754335000,
             "kind": "DEGREE",
             "totalCourses": 5,
-            "finishedCourses": 4,
+            "finishedCourses": 5,
             "totalSteps": 14,
-            "finishedSteps": 4,
+            "finishedSteps": 5,
             "color": "#f6bc42",
             "author": ""
         },
