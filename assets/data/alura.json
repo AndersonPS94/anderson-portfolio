@@ -254,6 +254,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "ios-swiftui-navegacao-gerenciamento-estados",
+            "finished": false,
+            "name": "iOS com SwiftUI: implementando navegação e gerenciamento de estados",
+            "lastAccessTime": 1774037029000,
+            "id": 3153,
+            "progress": 5,
+            "readyToFinish": false
+        },
+        {
             "slug": "gestao-agil-conceitos-agilidade",
             "finished": false,
             "name": "Gestão Ágil: explorando conceitos da agilidade",
