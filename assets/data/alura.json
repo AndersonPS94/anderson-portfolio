@@ -119,6 +119,33 @@
             "readyToFinish": true
         },
         {
+            "slug": "certificacao-itil-4-conceitos-chave-gerenciamento-servicos",
+            "finished": false,
+            "name": "Criação de valor: conhecendo os conceitos-chave para gerenciamento de serviços",
+            "lastAccessTime": 1774473727000,
+            "id": 1694,
+            "progress": 0,
+            "readyToFinish": false
+        },
+        {
+            "slug": "certificacao-itil-4-cadeia-valor-quatro-dimensoes",
+            "finished": false,
+            "name": "Cadeia de valor de serviços: conhecendo as 4 dimensões",
+            "lastAccessTime": 1774473724000,
+            "id": 1696,
+            "progress": 0,
+            "readyToFinish": false
+        },
+        {
+            "slug": "certificacao-itil-4-praticas-gerenciamento-servicos",
+            "finished": false,
+            "name": "Práticas gerais: descobrindo as práticas de gerenciamento de serviços",
+            "lastAccessTime": 1774473723000,
+            "id": 1697,
+            "progress": 0,
+            "readyToFinish": false
+        },
+        {
             "slug": "arquitetura-computadores-funcionamento-programa",
             "finished": true,
             "name": "Arquitetura de computadores: por trás de como seu programa funciona",
@@ -135,6 +162,15 @@
             "id": 2095,
             "progress": 100,
             "readyToFinish": true
+        },
+        {
+            "slug": "simulado-certificacao-itil-4-foundation",
+            "finished": false,
+            "name": "Avalie seus conhecimentos: simulado geral",
+            "lastAccessTime": 1774473719000,
+            "id": 2136,
+            "progress": 4,
+            "readyToFinish": false
         },
         {
             "slug": "linux-onboarding-utilizar-cli-forma-rapida-pratica",
@@ -245,6 +281,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "redes-implementando-roteamento-dns-ipv6",
+            "finished": false,
+            "name": "Redes: implementando roteamento, DNS e IPv6",
+            "lastAccessTime": 1774473743000,
+            "id": 3093,
+            "progress": 0,
+            "readyToFinish": false
+        },
+        {
             "slug": "ios-swiftui-construindo-componentes-layouts",
             "finished": true,
             "name": "iOS com SwiftUI: construindo componentes e layouts",
@@ -260,6 +305,15 @@
             "lastAccessTime": 1774054361000,
             "id": 3153,
             "progress": 5,
+            "readyToFinish": false
+        },
+        {
+            "slug": "redes-projeto-vlans-politicas-acesso-conexao-internet",
+            "finished": false,
+            "name": "Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet",
+            "lastAccessTime": 1774473717000,
+            "id": 3161,
+            "progress": 0,
             "readyToFinish": false
         },
         {
@@ -362,6 +416,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "linux-gerenciando-diretorios-arquivos-permissoes-processos",
+            "finished": false,
+            "name": "Linux: gerenciando diretórios, arquivos, permissões e processos",
+            "lastAccessTime": 1774473734000,
+            "id": 3859,
+            "progress": 0,
+            "readyToFinish": false
+        },
+        {
             "slug": "dart-trabalhando-sintaxe-configuracao-projeto",
             "finished": true,
             "name": "Dart: trabalhando com a sintaxe e configuração de projeto",
@@ -461,6 +524,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "computador-sistemas-programas-dicas-essenciais",
+            "finished": false,
+            "name": "Computador: sistemas, programas e dicas essenciais",
+            "lastAccessTime": 1774475056000,
+            "id": 4931,
+            "progress": 23,
+            "readyToFinish": false
+        },
+        {
             "slug": "social-media-os-pilares-das-midias-sociais",
             "finished": true,
             "name": "Social media: os pilares das mídias sociais",
@@ -553,18 +625,74 @@
     ],
     "guides": [
         {
-            "id": 736779,
-            "code": "domine-linguagem-swift",
-            "name": "Domine a linguagem Swift",
-            "url": "/formacao-domine-linguagem-swift",
-            "lastAccessTime": 1773779082000,
+            "id": 125217,
+            "code": "certificacao-itil-4-foundation",
+            "name": "Gestão da biblioteca de infraestrutura de TI",
+            "url": "/formacao-certificacao-itil-4-foundation",
+            "lastAccessTime": 1774473727000,
             "kind": "DEGREE",
             "totalCourses": 5,
-            "finishedCourses": 5,
-            "totalSteps": 14,
-            "finishedSteps": 5,
-            "color": "#f6bc42",
+            "finishedCourses": 0,
+            "totalSteps": 7,
+            "finishedSteps": 0,
+            "color": "#ff8c2a",
             "author": ""
+        },
+        {
+            "id": 977861,
+            "code": "engenharia-de-ia",
+            "name": "Engenharia de IA",
+            "url": "/career/path/engenharia-de-ia",
+            "lastAccessTime": 1774473333000,
+            "kind": "CAREER_PATH",
+            "totalCourses": 25,
+            "finishedCourses": 0,
+            "totalSteps": 25,
+            "finishedSteps": 0,
+            "color": "#7b71ff",
+            "author": ""
+        },
+        {
+            "id": 1031986,
+            "code": "meu-plano-de-estudos-matheus-fdl-1765994359604",
+            "name": "SUPORTE / HELPDESK",
+            "url": "/meu-plano-de-estudos-matheus-fdl-1765994359604-p1031986",
+            "lastAccessTime": 1774475056000,
+            "kind": "USER_GUIDE",
+            "totalCourses": 15,
+            "finishedCourses": 1,
+            "totalSteps": 15,
+            "finishedSteps": 1,
+            "color": "#1dc188",
+            "author": "Matheus Campos Stefano"
+        },
+        {
+            "id": 1031251,
+            "code": "microsoft365-copilot",
+            "name": "Microsoft 365 com Copilot",
+            "url": "/formacao-microsoft365-copilot",
+            "lastAccessTime": 1774471167000,
+            "kind": "DEGREE",
+            "totalCourses": 4,
+            "finishedCourses": 0,
+            "totalSteps": 4,
+            "finishedSteps": 0,
+            "color": "#ff8c2a",
+            "author": ""
+        },
+        {
+            "id": 1024304,
+            "code": "microsoft-office-365-marciosonic-141049",
+            "name": "Microsoft Office 365",
+            "url": "/microsoft-office-365-marciosonic-141049-p1024304",
+            "lastAccessTime": 1774471160000,
+            "kind": "USER_GUIDE",
+            "totalCourses": 13,
+            "finishedCourses": 0,
+            "totalSteps": 13,
+            "finishedSteps": 0,
+            "color": "#383838",
+            "author": "Marcio Simião De Queiroz"
         },
         {
             "id": 474091,
@@ -585,7 +713,7 @@
             "code": "comecando-linux",
             "name": "Começando em Linux",
             "url": "/formacao-comecando-linux",
-            "lastAccessTime": 1773020399000,
+            "lastAccessTime": 1774473734000,
             "kind": "DEGREE",
             "totalCourses": 3,
             "finishedCourses": 0,
@@ -725,7 +853,7 @@
             "code": "meu-plano-de-estudos-andressafernandesgxrl-1767930685661",
             "name": "Para Suporte em TI",
             "url": "/meu-plano-de-estudos-andressafernandesgxrl-1767930685661-p1037177",
-            "lastAccessTime": 1772658745000,
+            "lastAccessTime": 1774475056000,
             "kind": "USER_GUIDE",
             "totalCourses": 5,
             "finishedCourses": 0,
@@ -1033,7 +1161,7 @@
             "code": "redes",
             "name": "Redes de computadores",
             "url": "/formacao-redes",
-            "lastAccessTime": 1772468424000,
+            "lastAccessTime": 1774473743000,
             "kind": "DEGREE",
             "totalCourses": 4,
             "finishedCourses": 0,
