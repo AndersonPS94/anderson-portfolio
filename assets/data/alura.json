@@ -731,7 +731,7 @@
             "kind": "DEGREE",
             "totalCourses": 3,
             "finishedCourses": 0,
-            "totalSteps": 4,
+            "totalSteps": 3,
             "finishedSteps": 0,
             "color": "#e16a69",
             "author": ""
@@ -955,7 +955,7 @@
             "kind": "DEGREE",
             "totalCourses": 6,
             "finishedCourses": 0,
-            "totalSteps": 8,
+            "totalSteps": 6,
             "finishedSteps": 0,
             "color": "#e16a69",
             "author": ""
@@ -1151,7 +1151,7 @@
             "kind": "DEGREE",
             "totalCourses": 6,
             "finishedCourses": 0,
-            "totalSteps": 12,
+            "totalSteps": 6,
             "finishedSteps": 0,
             "color": "#e16a69",
             "author": ""
@@ -1165,8 +1165,8 @@
             "kind": "DEGREE",
             "totalCourses": 4,
             "finishedCourses": 0,
-            "totalSteps": 8,
-            "finishedSteps": 1,
+            "totalSteps": 4,
+            "finishedSteps": 0,
             "color": "#e16a69",
             "author": ""
         },
