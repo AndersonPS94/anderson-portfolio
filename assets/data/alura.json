@@ -621,9 +621,50 @@
             "id": 5336,
             "progress": 0,
             "readyToFinish": false
+        },
+        {
+            "slug": "model-context-protocol",
+            "finished": false,
+            "name": "Model Context Protocol (MCP): integração e otimização em agentes de IA",
+            "lastAccessTime": 1775395079000,
+            "id": 5434,
+            "progress": 6,
+            "readyToFinish": false
+        },
+        {
+            "slug": "n8n-devs-construindo-workflows-inteligentes",
+            "finished": false,
+            "name": "n8n para devs: Construindo workflows inteligentes",
+            "lastAccessTime": 1775394951000,
+            "id": 5436,
+            "progress": 5,
+            "readyToFinish": false
+        },
+        {
+            "slug": "claude-code-criando-sua-primeira-aplicacao",
+            "finished": false,
+            "name": "Claude Code: criando sua primeira aplicação",
+            "lastAccessTime": 1775396845000,
+            "id": 5834,
+            "progress": 31,
+            "readyToFinish": false
         }
     ],
     "guides": [
+        {
+            "id": 1040267,
+            "code": "n8n-devs",
+            "name": "n8n para Desenvolvedores",
+            "url": "/formacao-n8n-devs",
+            "lastAccessTime": 1775395079000,
+            "kind": "DEGREE",
+            "totalCourses": 6,
+            "finishedCourses": 0,
+            "totalSteps": 6,
+            "finishedSteps": 0,
+            "color": "#57c478",
+            "author": ""
+        },
         {
             "id": 125217,
             "code": "certificacao-itil-4-foundation",
