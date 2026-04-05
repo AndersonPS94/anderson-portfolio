@@ -626,7 +626,7 @@
             "slug": "model-context-protocol",
             "finished": false,
             "name": "Model Context Protocol (MCP): integração e otimização em agentes de IA",
-            "lastAccessTime": 1775395079000,
+            "lastAccessTime": 1775419304000,
             "id": 5434,
             "progress": 6,
             "readyToFinish": false
@@ -644,7 +644,7 @@
             "slug": "claude-code-criando-sua-primeira-aplicacao",
             "finished": false,
             "name": "Claude Code: criando sua primeira aplicação",
-            "lastAccessTime": 1775396845000,
+            "lastAccessTime": 1775419299000,
             "id": 5834,
             "progress": 31,
             "readyToFinish": false
@@ -656,7 +656,7 @@
             "code": "n8n-devs",
             "name": "n8n para Desenvolvedores",
             "url": "/formacao-n8n-devs",
-            "lastAccessTime": 1775395079000,
+            "lastAccessTime": 1775419304000,
             "kind": "DEGREE",
             "totalCourses": 6,
             "finishedCourses": 0,
