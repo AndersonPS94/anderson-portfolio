@@ -497,6 +497,15 @@
             "readyToFinish": false
         },
         {
+            "slug": "computacao-fundamentos-computacao-pensamento-computacional",
+            "finished": false,
+            "name": "Pensamento computacional: fundamentos da computação e lógica de programação",
+            "lastAccessTime": 1777661275000,
+            "id": 4796,
+            "progress": 17,
+            "readyToFinish": false
+        },
+        {
             "slug": "ciberseguranca-fundamentos-praticas-redes",
             "finished": false,
             "name": "Cibersegurança: Fundamentos e práticas de redes",
@@ -626,9 +635,9 @@
             "slug": "model-context-protocol",
             "finished": false,
             "name": "Model Context Protocol (MCP): integração e otimização em agentes de IA",
-            "lastAccessTime": 1775419304000,
+            "lastAccessTime": 1777658813000,
             "id": 5434,
-            "progress": 6,
+            "progress": 8,
             "readyToFinish": false
         },
         {
@@ -684,7 +693,7 @@
             "code": "engenharia-de-ia",
             "name": "Engenharia de Agentes de IA",
             "url": "/career/path/engenharia-de-ia",
-            "lastAccessTime": 1774473333000,
+            "lastAccessTime": 1777661275000,
             "kind": "CAREER_PATH",
             "totalCourses": 26,
             "finishedCourses": 0,
@@ -698,7 +707,7 @@
             "code": "meu-plano-de-estudos-matheus-fdl-1765994359604",
             "name": "SUPORTE / HELPDESK",
             "url": "/meu-plano-de-estudos-matheus-fdl-1765994359604-p1031986",
-            "lastAccessTime": 1774489747000,
+            "lastAccessTime": 1777661275000,
             "kind": "USER_GUIDE",
             "totalCourses": 15,
             "finishedCourses": 1,
@@ -1034,7 +1043,7 @@
             "code": "especialista-em-ia",
             "name": "Especialista em IA",
             "url": "/career/path/especialista-em-ia",
-            "lastAccessTime": 1770041034000,
+            "lastAccessTime": 1777661275000,
             "kind": "CAREER_PATH",
             "totalCourses": 21,
             "finishedCourses": 0,
