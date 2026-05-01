@@ -272,6 +272,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "python-data-science-primeiros-passos",
+            "finished": false,
+            "name": "Python para Dados: primeiros passos",
+            "lastAccessTime": 1777678989000,
+            "id": 2922,
+            "progress": 20,
+            "readyToFinish": false
+        },
+        {
             "slug": "governanca-ti-gerencie-servicos-fortaleca-seguranca",
             "finished": true,
             "name": "Governança de TI: gerencie serviços e fortaleça a segurança",
@@ -500,9 +509,9 @@
             "slug": "computacao-fundamentos-computacao-pensamento-computacional",
             "finished": false,
             "name": "Pensamento computacional: fundamentos da computação e lógica de programação",
-            "lastAccessTime": 1777661275000,
+            "lastAccessTime": 1777677658000,
             "id": 4796,
-            "progress": 17,
+            "progress": 19,
             "readyToFinish": false
         },
         {
@@ -693,7 +702,7 @@
             "code": "engenharia-de-ia",
             "name": "Engenharia de Agentes de IA",
             "url": "/career/path/engenharia-de-ia",
-            "lastAccessTime": 1777661275000,
+            "lastAccessTime": 1777677658000,
             "kind": "CAREER_PATH",
             "totalCourses": 26,
             "finishedCourses": 0,
@@ -707,7 +716,7 @@
             "code": "meu-plano-de-estudos-matheus-fdl-1765994359604",
             "name": "SUPORTE / HELPDESK",
             "url": "/meu-plano-de-estudos-matheus-fdl-1765994359604-p1031986",
-            "lastAccessTime": 1777661275000,
+            "lastAccessTime": 1777677658000,
             "kind": "USER_GUIDE",
             "totalCourses": 15,
             "finishedCourses": 1,
@@ -1043,7 +1052,7 @@
             "code": "especialista-em-ia",
             "name": "Especialista em IA",
             "url": "/career/path/especialista-em-ia",
-            "lastAccessTime": 1777661275000,
+            "lastAccessTime": 1777677658000,
             "kind": "CAREER_PATH",
             "totalCourses": 21,
             "finishedCourses": 0,
@@ -1113,7 +1122,7 @@
             "code": "analise-de-dados",
             "name": "Análise de Dados",
             "url": "/career/path/analise-de-dados",
-            "lastAccessTime": 1763654201000,
+            "lastAccessTime": 1777678989000,
             "kind": "CAREER_PATH",
             "totalCourses": 59,
             "finishedCourses": 1,
