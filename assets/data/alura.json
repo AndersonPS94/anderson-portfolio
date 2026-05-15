@@ -894,20 +894,6 @@
             "author": ""
         },
         {
-            "id": 582659,
-            "code": "ux",
-            "name": "UX Design",
-            "url": "/formacao-ux",
-            "lastAccessTime": 1772658981000,
-            "kind": "DEGREE",
-            "totalCourses": 6,
-            "finishedCourses": 0,
-            "totalSteps": 6,
-            "finishedSteps": 0,
-            "color": "#cf75ba",
-            "author": ""
-        },
-        {
             "id": 1037177,
             "code": "meu-plano-de-estudos-andressafernandesgxrl-1767930685661",
             "name": "Para Suporte em TI",
@@ -984,9 +970,9 @@
             "url": "/formacao-gestao-agil-projetos",
             "lastAccessTime": 1771082939000,
             "kind": "DEGREE",
-            "totalCourses": 11,
+            "totalCourses": 10,
             "finishedCourses": 0,
-            "totalSteps": 11,
+            "totalSteps": 10,
             "finishedSteps": 0,
             "color": "#ff8c2a",
             "author": ""
