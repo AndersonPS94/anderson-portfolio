@@ -437,9 +437,9 @@
             "slug": "dart-trabalhando-sintaxe-configuracao-projeto",
             "finished": true,
             "name": "Dart: trabalhando com a sintaxe e configuração de projeto",
-            "lastAccessTime": 1763564506000,
+            "lastAccessTime": 1780154091000,
             "id": 3997,
-            "progress": 98,
+            "progress": 100,
             "readyToFinish": true
         },
         {
@@ -590,9 +590,9 @@
             "slug": "flutter-testes-ferramentas-desenvolvedor",
             "finished": false,
             "name": "Flutter: Estratégias de Teste e Depuração",
-            "lastAccessTime": 1772989940000,
+            "lastAccessTime": 1780156909000,
             "id": 5140,
-            "progress": 7,
+            "progress": 44,
             "readyToFinish": false
         },
         {
@@ -1332,7 +1332,7 @@
             "code": "desenvolvimento-mobile-com-flutter",
             "name": "Desenvolvimento Mobile com Flutter",
             "url": "/career/path/desenvolvimento-mobile-com-flutter",
-            "lastAccessTime": 1772989940000,
+            "lastAccessTime": 1780156909000,
             "kind": "CAREER_PATH",
             "totalCourses": 37,
             "finishedCourses": 7,
