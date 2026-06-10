@@ -635,7 +635,7 @@
             "slug": "flutter-pipelines-github-actions-fastlane",
             "finished": false,
             "name": "CI/CD Mobile: automação para aplicativos Android e iOS",
-            "lastAccessTime": 1780587794000,
+            "lastAccessTime": 1781123248000,
             "id": 5336,
             "progress": 25,
             "readyToFinish": false
@@ -1034,20 +1034,6 @@
             "author": ""
         },
         {
-            "id": 977868,
-            "code": "especialista-em-ia",
-            "name": "Especialista em IA",
-            "url": "/career/path/especialista-em-ia",
-            "lastAccessTime": 1777742317000,
-            "kind": "CAREER_PATH",
-            "totalCourses": 21,
-            "finishedCourses": 0,
-            "totalSteps": 21,
-            "finishedSteps": 0,
-            "color": "#7b71ff",
-            "author": ""
-        },
-        {
             "id": 977876,
             "code": "appsec",
             "name": "AppSec: Desenvolvimento Seguro de Aplicações",
@@ -1332,7 +1318,7 @@
             "code": "desenvolvimento-mobile-com-flutter",
             "name": "Desenvolvimento Mobile com Flutter",
             "url": "/career/path/desenvolvimento-mobile-com-flutter",
-            "lastAccessTime": 1780587794000,
+            "lastAccessTime": 1781123248000,
             "kind": "CAREER_PATH",
             "totalCourses": 37,
             "finishedCourses": 7,
