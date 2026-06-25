@@ -1082,11 +1082,11 @@
             "url": "/career/path/growth-marketing",
             "lastAccessTime": 1763828166000,
             "kind": "CAREER_PATH",
-            "totalCourses": 23,
+            "totalCourses": 24,
             "finishedCourses": 1,
-            "totalSteps": 23,
+            "totalSteps": 24,
             "finishedSteps": 1,
-            "color": "#57c478",
+            "color": "#ff8c2a",
             "author": ""
         },
         {
@@ -1124,9 +1124,9 @@
             "url": "/career/path/social-media-marketing",
             "lastAccessTime": 1773147750000,
             "kind": "CAREER_PATH",
-            "totalCourses": 24,
+            "totalCourses": 25,
             "finishedCourses": 2,
-            "totalSteps": 24,
+            "totalSteps": 25,
             "finishedSteps": 2,
             "color": "#ff8c2a",
             "author": ""
