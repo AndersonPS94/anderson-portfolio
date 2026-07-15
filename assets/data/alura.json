@@ -633,12 +633,12 @@
         },
         {
             "slug": "flutter-pipelines-github-actions-fastlane",
-            "finished": false,
+            "finished": true,
             "name": "CI/CD Mobile: automação para aplicativos Android e iOS",
-            "lastAccessTime": 1784057096000,
+            "lastAccessTime": 1784130671000,
             "id": 5336,
-            "progress": 28,
-            "readyToFinish": false
+            "progress": 100,
+            "readyToFinish": true
         },
         {
             "slug": "model-context-protocol",
@@ -1142,7 +1142,7 @@
             "finishedCourses": 0,
             "totalSteps": 26,
             "finishedSteps": 0,
-            "color": "#f6bc42",
+            "color": "#cf75ba",
             "author": ""
         },
         {
@@ -1318,12 +1318,12 @@
             "code": "desenvolvimento-mobile-com-flutter",
             "name": "Desenvolvimento Mobile com Flutter",
             "url": "/career/path/desenvolvimento-mobile-com-flutter",
-            "lastAccessTime": 1784057096000,
+            "lastAccessTime": 1784130671000,
             "kind": "CAREER_PATH",
             "totalCourses": 37,
-            "finishedCourses": 7,
+            "finishedCourses": 8,
             "totalSteps": 37,
-            "finishedSteps": 7,
+            "finishedSteps": 8,
             "color": "#f6bc42",
             "author": ""
         },
