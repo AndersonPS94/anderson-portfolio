@@ -275,9 +275,9 @@
             "slug": "python-data-science-primeiros-passos",
             "finished": false,
             "name": "Python para Dados: primeiros passos",
-            "lastAccessTime": 1784038914000,
+            "lastAccessTime": 1784156117000,
             "id": 2922,
-            "progress": 25,
+            "progress": 30,
             "readyToFinish": false
         },
         {
@@ -1094,7 +1094,7 @@
             "code": "analise-de-dados",
             "name": "Análise de Dados",
             "url": "/career/path/analise-de-dados",
-            "lastAccessTime": 1784038914000,
+            "lastAccessTime": 1784156117000,
             "kind": "CAREER_PATH",
             "totalCourses": 59,
             "finishedCourses": 1,
