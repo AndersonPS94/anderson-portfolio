@@ -275,10 +275,10 @@
             "slug": "python-data-science-primeiros-passos",
             "finished": false,
             "name": "Python para Dados: primeiros passos",
-            "lastAccessTime": 1784156117000,
+            "lastAccessTime": 1784208677000,
             "id": 2922,
-            "progress": 30,
-            "readyToFinish": false
+            "progress": 63,
+            "readyToFinish": true
         },
         {
             "slug": "governanca-ti-gerencie-servicos-fortaleca-seguranca",
@@ -509,9 +509,9 @@
             "slug": "computacao-fundamentos-computacao-pensamento-computacional",
             "finished": false,
             "name": "Pensamento computacional: fundamentos da computação e lógica de programação",
-            "lastAccessTime": 1777742317000,
+            "lastAccessTime": 1784206568000,
             "id": 4796,
-            "progress": 20,
+            "progress": 24,
             "readyToFinish": false
         },
         {
@@ -670,6 +670,20 @@
     ],
     "guides": [
         {
+            "id": 1084139,
+            "code": "desenvolvimento-backend-python",
+            "name": "Desenvolvimento Back-End Python",
+            "url": "/career/path/desenvolvimento-backend-python",
+            "lastAccessTime": 1784206568000,
+            "kind": "CAREER_PATH",
+            "totalCourses": 45,
+            "finishedCourses": 1,
+            "totalSteps": 45,
+            "finishedSteps": 1,
+            "color": "#57c478",
+            "author": ""
+        },
+        {
             "id": 1040267,
             "code": "n8n-devs",
             "name": "n8n para Desenvolvedores",
@@ -702,7 +716,7 @@
             "code": "engenharia-de-ia",
             "name": "Engenharia de Agentes de IA",
             "url": "/career/path/engenharia-de-ia",
-            "lastAccessTime": 1777742317000,
+            "lastAccessTime": 1784206568000,
             "kind": "CAREER_PATH",
             "totalCourses": 27,
             "finishedCourses": 0,
@@ -716,7 +730,7 @@
             "code": "meu-plano-de-estudos-matheus-fdl-1765994359604",
             "name": "SUPORTE / HELPDESK",
             "url": "/meu-plano-de-estudos-matheus-fdl-1765994359604-p1031986",
-            "lastAccessTime": 1777742317000,
+            "lastAccessTime": 1784206568000,
             "kind": "USER_GUIDE",
             "totalCourses": 15,
             "finishedCourses": 1,
@@ -1094,7 +1108,7 @@
             "code": "analise-de-dados",
             "name": "Análise de Dados",
             "url": "/career/path/analise-de-dados",
-            "lastAccessTime": 1784156117000,
+            "lastAccessTime": 1784208677000,
             "kind": "CAREER_PATH",
             "totalCourses": 59,
             "finishedCourses": 1,
