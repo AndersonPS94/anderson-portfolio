@@ -275,9 +275,9 @@
             "slug": "python-data-science-primeiros-passos",
             "finished": false,
             "name": "Python para Dados: primeiros passos",
-            "lastAccessTime": 1784208677000,
+            "lastAccessTime": 1784486721000,
             "id": 2922,
-            "progress": 63,
+            "progress": 83,
             "readyToFinish": true
         },
         {
@@ -518,9 +518,9 @@
             "slug": "iniciando-data-science-python",
             "finished": false,
             "name": "Iniciando em dados: aprendendo Python",
-            "lastAccessTime": 1784424482000,
+            "lastAccessTime": 1784468884000,
             "id": 4808,
-            "progress": 3,
+            "progress": 8,
             "readyToFinish": false
         },
         {
@@ -683,7 +683,7 @@
             "code": "engenharia-de-machine-learning",
             "name": "Engenharia de Machine Learning",
             "url": "/career/path/engenharia-de-machine-learning",
-            "lastAccessTime": 1784424482000,
+            "lastAccessTime": 1784468884000,
             "kind": "CAREER_PATH",
             "totalCourses": 16,
             "finishedCourses": 0,
@@ -1131,7 +1131,7 @@
             "code": "analise-de-dados",
             "name": "Análise de Dados",
             "url": "/career/path/analise-de-dados",
-            "lastAccessTime": 1784208677000,
+            "lastAccessTime": 1784486721000,
             "kind": "CAREER_PATH",
             "totalCourses": 59,
             "finishedCourses": 1,
