@@ -515,6 +515,15 @@
             "readyToFinish": false
         },
         {
+            "slug": "iniciando-data-science-python",
+            "finished": false,
+            "name": "Iniciando em dados: aprendendo Python",
+            "lastAccessTime": 1784424482000,
+            "id": 4808,
+            "progress": 3,
+            "readyToFinish": false
+        },
+        {
             "slug": "ciberseguranca-fundamentos-praticas-redes",
             "finished": false,
             "name": "Cibersegurança: Fundamentos e práticas de redes",
@@ -669,6 +678,20 @@
         }
     ],
     "guides": [
+        {
+            "id": 1055580,
+            "code": "engenharia-de-machine-learning",
+            "name": "Engenharia de Machine Learning",
+            "url": "/career/path/engenharia-de-machine-learning",
+            "lastAccessTime": 1784424482000,
+            "kind": "CAREER_PATH",
+            "totalCourses": 16,
+            "finishedCourses": 0,
+            "totalSteps": 16,
+            "finishedSteps": 0,
+            "color": "#a7d156",
+            "author": ""
+        },
         {
             "id": 1084139,
             "code": "desenvolvimento-backend-python",
