@@ -119,6 +119,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "android-sua-primeira-app-mobile",
+            "finished": false,
+            "name": "Android parte 1: crie um app mobile",
+            "lastAccessTime": 1786554337000,
+            "id": 1051,
+            "progress": 16,
+            "readyToFinish": false
+        },
+        {
             "slug": "certificacao-itil-4-conceitos-chave-gerenciamento-servicos",
             "finished": false,
             "name": "Criação de valor: conhecendo os conceitos-chave para gerenciamento de serviços",
@@ -261,6 +270,15 @@
             "id": 2823,
             "progress": 100,
             "readyToFinish": true
+        },
+        {
+            "slug": "java-criando-primeira-aplicacao",
+            "finished": false,
+            "name": "Java: criando a sua primeira aplicação",
+            "lastAccessTime": 1786545481000,
+            "id": 2858,
+            "progress": 11,
+            "readyToFinish": false
         },
         {
             "slug": "robot-framework-testes-padrao-bdd",
@@ -479,6 +497,15 @@
             "readyToFinish": true
         },
         {
+            "slug": "comecando-programacao-carreira-primeiros-passos",
+            "finished": true,
+            "name": "Começando em Programação: carreira e primeiros passos",
+            "lastAccessTime": 1786542987000,
+            "id": 4210,
+            "progress": 100,
+            "readyToFinish": true
+        },
+        {
             "slug": "ciberseguranca-conhecendo-usos-ia-seguranca",
             "finished": true,
             "name": "Cibersegurança: conhecendo os usos de IA para segurança",
@@ -688,11 +715,25 @@
     ],
     "guides": [
         {
+            "id": 264250,
+            "code": "mobile-android",
+            "name": "A partir do zero: crie apps Android com a linguagem Java",
+            "url": "/formacao-mobile-android",
+            "lastAccessTime": 1786554337000,
+            "kind": "DEGREE",
+            "totalCourses": 10,
+            "finishedCourses": 0,
+            "totalSteps": 10,
+            "finishedSteps": 0,
+            "color": "#f6bc42",
+            "author": ""
+        },
+        {
             "id": 1084117,
             "code": "desenvolvimento-backend-java",
             "name": "Desenvolvimento Back-End Java",
             "url": "/career/path/desenvolvimento-backend-java",
-            "lastAccessTime": 1784564067000,
+            "lastAccessTime": 1786545481000,
             "kind": "CAREER_PATH",
             "totalCourses": 46,
             "finishedCourses": 0,
