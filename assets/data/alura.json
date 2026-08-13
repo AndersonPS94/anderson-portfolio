@@ -182,6 +182,15 @@
             "readyToFinish": false
         },
         {
+            "slug": "ferramentas-agilidade-visao-sobre-controle-projetos-produtos",
+            "finished": false,
+            "name": "Ferramentas para agilidade: visão geral sobre controle de projetos e produtos",
+            "lastAccessTime": 1786624147000,
+            "id": 2138,
+            "progress": 31,
+            "readyToFinish": false
+        },
+        {
             "slug": "linux-onboarding-utilizar-cli-forma-rapida-pratica",
             "finished": true,
             "name": "Linux Onboarding: usando a CLI de uma forma rápida e prática",
@@ -1069,7 +1078,7 @@
             "code": "gestao-agil-projetos",
             "name": "Gestão Ágil de Projetos",
             "url": "/formacao-gestao-agil-projetos",
-            "lastAccessTime": 1771082939000,
+            "lastAccessTime": 1786624147000,
             "kind": "DEGREE",
             "totalCourses": 11,
             "finishedCourses": 0,
