@@ -1,0 +1,349 @@
+/*
+ * BLUEPRINT OBSIDIAN — Portfólio Anderson Santos
+ * Design: fundo obsidian #0A0C0E, acento verde Kotlin #3DDC84,
+ * tipografia Space Grotesk (display/corpo) + JetBrains Mono (anotações técnicas).
+ * Grid de blueprint, cantoneiras, numeração monoespaçada. Precisão sobre ornamentação.
+ */
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-kotlin: var(--kotlin);
+  --color-mono-font: "JetBrains Mono", ui-monospace, monospace;
+  --font-sans: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+}
+
+:root,
+.dark {
+  --radius: 0.375rem;
+  /* Obsidian */
+  --background: oklch(0.145 0.008 240);
+  --foreground: oklch(0.93 0.005 240);
+  --card: oklch(0.175 0.009 240);
+  --card-foreground: oklch(0.93 0.005 240);
+  --popover: oklch(0.18 0.009 240);
+  --popover-foreground: oklch(0.93 0.005 240);
+  /* Kotlin green accent */
+  --primary: oklch(0.81 0.17 157);
+  --primary-foreground: oklch(0.15 0.02 240);
+  --secondary: oklch(0.22 0.01 240);
+  --secondary-foreground: oklch(0.85 0.01 240);
+  --muted: oklch(0.22 0.01 240);
+  --muted-foreground: oklch(0.62 0.015 240);
+  --accent: oklch(0.24 0.012 240);
+  --accent-foreground: oklch(0.93 0.005 240);
+  --destructive: oklch(0.6 0.2 25);
+  --destructive-foreground: oklch(0.97 0 0);
+  --border: oklch(0.93 0.005 240 / 12%);
+  --input: oklch(0.93 0.005 240 / 16%);
+  --ring: oklch(0.81 0.17 157 / 60%);
+  --kotlin: #3ddc84;
+  --chart-1: oklch(0.81 0.17 157);
+  --chart-2: oklch(0.62 0.015 240);
+  --chart-3: oklch(0.5 0.015 240);
+  --chart-4: oklch(0.4 0.012 240);
+  --chart-5: oklch(0.3 0.01 240);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  section[id] {
+    scroll-margin-top: 5rem;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  ::selection {
+    background: oklch(0.81 0.17 157 / 25%);
+    color: oklch(0.97 0 0);
+  }
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  [type="button"]:not(:disabled),
+  [type="submit"]:not(:disabled),
+  [type="reset"]:not(:disabled),
+  a[href],
+  select:not(:disabled),
+  input[type="checkbox"]:not(:disabled),
+  input[type="radio"]:not(:disabled) {
+    @apply cursor-pointer;
+  }
+  /* Focus visível para acessibilidade */
+  :focus-visible {
+    outline: 2px solid var(--kotlin);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .flex {
+    min-height: 0;
+    min-width: 0;
+  }
+  @media (min-width: 640px) {
+    .container {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+  @media (min-width: 1024px) {
+    .container {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      max-width: 1240px;
+    }
+  }
+}
+
+/* ============ BLUEPRINT OBSCIDIAN UTILITIES ============ */
+
+/* Grid técnico de blueprint (linhas finas, opacidade baixa) */
+.blueprint-grid {
+  background-image:
+    linear-gradient(oklch(0.93 0.005 240 / 4%) 1px, transparent 1px),
+    linear-gradient(90deg, oklch(0.93 0.005 240 / 4%) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+.blueprint-grid-fine {
+  background-image:
+    linear-gradient(oklch(0.93 0.005 240 / 2.5%) 1px, transparent 1px),
+    linear-gradient(90deg, oklch(0.93 0.005 240 / 2.5%) 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
+/* Eyebrow técnico */
+.eyebrow {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--kotlin);
+}
+
+/* Sublinhado animado em links */
+.link-underline {
+  position: relative;
+  text-decoration: none;
+}
+.link-underline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  height: 1px;
+  width: 100%;
+  background: var(--kotlin);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 220ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+.link-underline:hover::after,
+.link-underline:focus-visible::after {
+  transform: scaleX(1);
+}
+
+/* Cantoneiras de blueprint em cards */
+.corner-ticks {
+  position: relative;
+}
+.corner-ticks::before,
+.corner-ticks::after {
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  pointer-events: none;
+}
+.corner-ticks::before {
+  top: -1px;
+  left: -1px;
+  border-top: 1.5px solid oklch(0.81 0.17 157 / 45%);
+  border-left: 1.5px solid oklch(0.81 0.17 157 / 45%);
+}
+.corner-ticks::after {
+  bottom: -1px;
+  right: -1px;
+  border-bottom: 1.5px solid oklch(0.81 0.17 157 / 45%);
+  border-right: 1.5px solid oklch(0.81 0.17 157 / 45%);
+}
+
+/* Reveal on scroll (acionado via IntersectionObserver) */
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition:
+    opacity 600ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 600ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Float suave para elementos do hero */
+@media (prefers-reduced-motion: no-preference) {
+  .float-slow {
+    animation: floatY 8s ease-in-out infinite;
+  }
+  .float-mid {
+    animation: floatY 6.4s ease-in-out infinite;
+  }
+  .float-fast {
+    animation: floatY 5.2s ease-in-out infinite;
+  }
+  @keyframes floatY {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-12px); }
+  }
+  .pulse-dot {
+    animation: pulseDot 2.6s ease-in-out infinite;
+  }
+  @keyframes pulseDot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    transition: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Cursor customizado (desativado em touch) */
+@media (hover: hover) and (pointer: fine) {
+  .custom-cursor-active body,
+  body.has-custom-cursor {
+    cursor: none;
+  }
+  .cursor-dot,
+  .cursor-ring {
+    pointer-events: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    transform: translate(-50%, -50%);
+    will-change: transform;
+  }
+  .cursor-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--kotlin);
+    transition: transform 120ms cubic-bezier(0.23, 1, 0.32, 1), opacity 160ms;
+  }
+  .cursor-ring {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1.5px solid oklch(0.81 0.17 157 / 50%);
+    transition:
+      transform 260ms cubic-bezier(0.23, 1, 0.32, 1),
+      width 200ms, height 200ms, border-color 200ms, opacity 160ms;
+  }
+  .cursor-hovering .cursor-dot {
+    transform: translate(-50%, -50%) scale(2.2);
+  }
+  .cursor-hovering .cursor-ring {
+    width: 46px;
+    height: 46px;
+    border-color: oklch(0.81 0.17 157 / 80%);
+  }
+}
+
+/* Hover de cards premium */
+.card-hover {
+  transition:
+    transform 200ms cubic-bezier(0.23, 1, 0.32, 1),
+    border-color 200ms cubic-bezier(0.23, 1, 0.32, 1),
+    box-shadow 200ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+.card-hover:hover {
+  transform: translateY(-4px) scale(1.015);
+  border-color: oklch(0.81 0.17 157 / 35%);
+  box-shadow: 0 12px 40px -12px oklch(0.81 0.17 157 / 12%);
+}
+.card-hover:active {
+  transform: translateY(-2px) scale(1.005);
+}
+
+/* Botão com feedback tátil */
+.btn-press {
+  transition:
+    transform 160ms cubic-bezier(0.23, 1, 0.32, 1),
+    background-color 200ms, border-color 200ms, color 200ms;
+}
+.btn-press:active {
+  transform: scale(0.97);
+}
+
+/* Entrada do hero (blur-to-focus + fade progressivo) */
+@media (prefers-reduced-motion: no-preference) {
+  .hero-anim {
+    opacity: 0;
+    filter: blur(8px);
+    transform: translateY(18px);
+    animation: heroIn 700ms cubic-bezier(0.23, 1, 0.32, 1) forwards;
+  }
+  @keyframes heroIn {
+    to {
+      opacity: 1;
+      filter: blur(0);
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Scan line sutil (terminal / hero) */
+.scan-line {
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    oklch(0.81 0.17 157 / 12%) 45%,
+    oklch(0.81 0.17 157 / 25%) 50%,
+    oklch(0.81 0.17 157 / 12%) 55%,
+    transparent
+  );
+}

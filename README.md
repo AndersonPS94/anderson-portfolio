@@ -1,35 +1,54 @@
-# 📱 Anderson Santos - Android Developer Portfolio
+# Portfólio — Anderson Santos | Android Developer
 
-Este é o repositório do meu portfólio profissional, desenvolvido para destacar minha jornada como desenvolvedor Android, meus projetos publicados e meu progresso contínuo em tecnologias mobile.
+Portfólio profissional com estética **Blueprint Obsidian**: fundo grafite profundo, grid técnico, anotações de planta (DWG), tipografia Space Grotesk + JetBrains Mono e verde Kotlin (#3DDC84) como acento único.
 
-## 🚀 Destaque: ScanGO
-Meu aplicativo mais recente publicado na **Google Play Store**. O ScanGO é um leitor de QR Code e Código de Barras ultra-rápido focado em produtividade e organização.
-- **Play Store:** [Disponível aqui](https://play.google.com/store/apps/details?id=com.teamkoders.scango)
-- **Tecnologias:** Kotlin, Jetpack, MVVM, Clean Architecture.
+Site publicado: [andersondev-f5heyjxz.manus.space](https://andersondev-f5heyjxz.manus.space)
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Kotlin, Java, C++.
-- **Arquitetura:** MVVM, Clean Architecture, SOLID.
-- **Android Jetpack:** Compose, Room, Navigation, LiveData, ViewModel.
-- **Integrações:** REST APIs (Retrofit), OpenAI API, Google Play Services.
-- **Estudos:** Atualmente focado em CI/CD Mobile e IA Aplicada.
+## Tecnologias
 
-## 📊 Integrações Dinâmicas
-O portfólio consome dados em tempo real para se manter sempre atualizado:
-- **Alura API:** Exibe meu progresso real em cursos e formações diretamente no site.
-- **Google Play:** Destaque visual do meu app publicado.
+- **React 19** + **TypeScript**
+- **Vite 7**
+- **Tailwind CSS 4**
+- **shadcn/ui** (componentes reutilizáveis)
+- **Wouter** (roteamento leve)
+- **Web Audio API** (efeitos sonoros de UI, sem arquivos externos)
 
-## 📂 Estrutura do Projeto
-- `index.html`: Página principal em Português.
-- `english_page.html`: Versão internacional do portfólio.
-- `assets/js/main.js`: Lógica de integração com a API da Alura.
-- `assets/data/alura.json`: Dados estáticos para garantir performance e contornar limitações de CORS.
-- `update_alura.py`: Script Python para atualizar os dados da Alura via API.
+## Destaques
 
-## 📧 Contato
-- **LinkedIn:** [Anderson Santos](https://linkedin.com/in/andersonps94)
-- **WhatsApp:** [+55 (12) 99743-9605](https://wa.me/5512997439605)
-- **Email:** andersonpsdev@gmail.com
+| Recurso | Descrição |
+|---|---|
+| Internacionalização | PT/EN completos com switch na navbar, detecção do navegador e SEO dinâmico |
+| Terminal interativo | Easter egg com comandos (`whoami`, `stack`, `help`) na seção Sobre |
+| Apps reais | Cards com ícones oficiais da Google Play (ScanGO, Task Engine, Parkly, Cashly) |
+| Acessibilidade | Contraste elevado, alt texts descritivos, foco visível, respeita `prefers-reduced-motion` |
+| Performance | Lazy-loading de imagens, preconnect de fontes, assets otimizados |
+| SFX | Efeitos sonoros discretos de hover/click com toggle |
 
----
-*Desenvolvido com foco em performance e experiência do usuário.*
+## Como rodar localmente
+
+```bash
+# instalar dependências
+pnpm install
+
+# rodar em desenvolvimento
+pnpm run dev
+
+# gerar build de produção
+pnpm run build
+```
+
+A build de produção fica em `dist/` e pode ser publicada em qualquer hospedagem estática (GitHub Pages, Netlify, Vercel).
+
+## Configuração de variáveis
+
+O projeto usa variáveis `VITE_*` injetadas automaticamente pelo ambiente Manus (título, favicon, analytics). Para rodar localmente, crie um `.env` na raiz:
+
+```
+VITE_APP_TITLE=Anderson Santos | Android Developer
+VITE_APP_LOGO=/favicon.png
+VITE_APP_ID=portfolio
+```
+
+## Licença
+
+Uso pessoal/profissional. Não redistribuir sem autorização.
