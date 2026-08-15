@@ -54,7 +54,7 @@ export const PROJECTS: Project[] = [
       "SQLDelight",
       "Firebase",
     ],
-    image: "/assets/parkly-phone_1d4d9251.png",
+    image: `${import.meta.env.BASE_URL}/assets/parkly-phone_1d4d9251.png`,
     playStore: "https://play.google.com/store/apps/details?id=com.andersonps.parkly",
     highlighted: true,
     context:
@@ -75,7 +75,7 @@ export const PROJECTS: Project[] = [
     description:
       "Aplicativo Android para leitura de códigos de barras e QR Codes utilizando CameraX e Google ML Kit, com classificação inteligente do conteúdo identificado. Publicado na Google Play.",
     technologies: ["Kotlin", "Android", "CameraX", "ML Kit", "Jetpack Compose"],
-    image: "/assets/scango-phone_8d818dba.png",
+    image: `${import.meta.env.BASE_URL}/assets/scango-phone_8d818dba.png`,
     playStore: "https://play.google.com/store/apps/details?id=com.teamkoders.scango",
     context:
       "Leitura rápida de QR Codes e códigos de barras no dia a dia, com organização do histórico de leituras.",
@@ -106,8 +106,8 @@ export const PROJECTS: Project[] = [
       "Coroutines & Flow",
       "Vico Charts",
     ],
-    image: "/assets/cashly-phone_1759d785.png",
-    icon: "/assets/cashly-icon-v2_eebd4629.png",
+    image: `${import.meta.env.BASE_URL}/assets/cashly-phone_1759d785.png`,
+    icon: `${import.meta.env.BASE_URL}/assets/cashly-icon-v2_eebd4629.png`,
     githubRepo: "https://github.com/AndersonPS94/Cashly-AndroidApp",
     context:
       "Controlar gastos, orçamentos e metas financeiras com precisão e sem comprometer a bateria ou a privacidade do usuário.",
@@ -129,7 +129,7 @@ export const PROJECTS: Project[] = [
     description:
       "Aplicativo de gerenciamento de tarefas com sistema de gamificação, XP e progressão do usuário. Envolve gerenciamento de estado, persistência de dados e organização de arquitetura Android.",
     technologies: ["Kotlin", "Android", "Jetpack Compose", "MVVM", "Persistência local"],
-    image: "/assets/taskengine-phone_f5087464.png",
+    image: `${import.meta.env.BASE_URL}/assets/taskengine-phone_f5087464.png`,
     context:
       "Tornar o acompanhamento de tarefas mais engajador, transformando produtividade em progressão visível.",
     problem:
