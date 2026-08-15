@@ -10,7 +10,7 @@ const APPS = [
   {
     id: "scango",
     name: "ScanGO",
-    image: "/assets/scango-icon_fc5c47de.png",
+    image: `${import.meta.env.BASE_URL}/assets/scango-icon_fc5c47de.png`,
     downloads: "100+ downloads",
     category: "Ferramentas",
     link: LINKS.scanGoPlay,
@@ -19,7 +19,7 @@ const APPS = [
   {
     id: "taskEngine",
     name: "Task Engine",
-    image: "/assets/taskengine-icon_6971ad11.png",
+    image: `${import.meta.env.BASE_URL}/assets/taskengine-icon_6971ad11.png`,
     downloads: "10+ downloads",
     category: "Estilo de vida",
     link: LINKS.taskEnginePlay,
@@ -28,7 +28,7 @@ const APPS = [
   {
     id: "parkly",
     name: "Parkly",
-    image: "/assets/parkly-icon_4064a0ca.png",
+    image: `${import.meta.env.BASE_URL}/assets/parkly-icon_4064a0ca.png`,
     downloads: "Lançado",
     category: "Ferramentas",
     link: LINKS.parklyPlay,
@@ -37,7 +37,7 @@ const APPS = [
   {
     id: "cashly",
     name: "Cashly",
-    image: "/assets/cashly-icon-v2_eebd4629.png",
+    image: `${import.meta.env.BASE_URL}/assets/cashly-icon-v2_eebd4629.png`,
     downloads: "Em publicação",
     category: "Finanças",
     link: LINKS.cashlyGithub,
