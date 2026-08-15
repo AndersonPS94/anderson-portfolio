@@ -96,7 +96,7 @@ export default function Hero() {
           {/* imagem de arquitetura */}
           <div className="absolute inset-0 flex items-center justify-center">
             <img
-              src="/assets/hero-code-visual_738b0737.png"
+              src={`${import.meta.env.BASE_URL}/assets/hero-code-visual_738b0737.png`}
               alt=""
               className="w-full max-w-[480px] object-contain opacity-70"
               loading="eager"
