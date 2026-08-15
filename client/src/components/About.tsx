@@ -32,7 +32,7 @@ export default function About() {
           <div className="reveal lg:sticky lg:top-28">
             <div className="corner-ticks border border-white/10 bg-card p-2">
               <img
-                src="/assets/profile_0df8fc41.jpg"
+                src={`${import.meta.env.BASE_URL}/assets/profile_0df8fc41.jpg`}
                 alt="Anderson Santos, desenvolvedor Android"
                 className="w-full aspect-[3/4] object-cover object-top grayscale-[25%]"
                 loading="lazy"
