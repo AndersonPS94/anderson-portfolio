@@ -119,7 +119,7 @@ export default function Navbar() {
             <span className="absolute -top-1 -left-1 h-2 w-2 border-t border-l border-[#3DDC84]/60" aria-hidden="true" />
             <span className="absolute -bottom-1 -right-1 h-2 w-2 border-b border-r border-[#3DDC84]/60" aria-hidden="true" />
             <img
-              src="/manus-storage/logo-mark_c0ded072.png"
+              src="/assets/logo-mark_c0ded072.png"
               alt="Monograma A."
               className="h-8 w-8 object-contain"
               loading="eager"

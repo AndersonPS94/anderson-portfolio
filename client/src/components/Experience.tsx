@@ -47,7 +47,7 @@ export default function Experience() {
               <div className="relative">
                 <div className="h-16 w-16 rounded-lg border border-white/10 bg-white p-1.5 flex items-center justify-center">
                   <img
-                    src="/manus-storage/solution-ti-logo_6df50ae1.png"
+                    src="/assets/solution-ti-logo_6df50ae1.png"
                     alt="Logo da Solution TI"
                     className="h-full w-full object-contain"
                     loading="lazy"
