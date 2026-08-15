@@ -36,7 +36,7 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <BlueprintStamp className="h-7 w-7 text-[13px]" />
           <img
-            src="/assets/logo-mark_c0ded072.png"
+            src={`${import.meta.env.BASE_URL}/assets/logo-mark_c0ded072.png`}
             alt=""
             className="h-6 w-6 object-contain"
             loading="lazy"
