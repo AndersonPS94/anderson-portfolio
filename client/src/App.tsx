@@ -6,9 +6,9 @@ import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 
-function Router() {
+function Router( ) {
   return (
-    <Switch base={import.meta.env.BASE_URL}>
+    <Switch base={import.meta.env.BASE_URL.replace(/\/+$/, "")}>
       <Route path={"/"} component={Home} />
       <Route path={"/404"} component={NotFound} />
       {/* Final fallback route */}
