@@ -269,8 +269,8 @@ const pt: Dict = {
     jobTitle: "Desenvolvedor Android Java",
     jobCompany: "Solution TI",
     jobType: "Tempo integral",
-    jobPeriod: "ago de 2026 — o momento · 1 mês",
-    jobLocation: "Rio de Janeiro, Rio de Janeiro, Brasil · Remoto",
+    jobPeriod: "ago de 2026 — Atualmente",
+    jobLocation: "Barra da Tijuca, Rio de Janeiro, Brasil · Remoto",
     jobDescription:
       "Atuo como Desenvolvedor Android Júnior, trabalhando principalmente com Java no desenvolvimento e manutenção de aplicações Android.",
     responsibilities: "Principais responsabilidades:",
