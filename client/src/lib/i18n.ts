@@ -228,7 +228,7 @@ const pt: Dict = {
   about: {
     eyebrow: "01 / Sobre",
     titlePart1: "Arquitetura antes da",
-    titlePart2: "primeira linha de código.",
+    titlePart2: "primeira linha de código",
     intro:
       "Sou Anderson Santos, desenvolvedor Android apaixonado por tecnologia, arquitetura e criação de produtos. Acredito que um bom app nasce de decisões de engenharia bem tomadas antes da primeira linha de código — arquitetura limpa, código testável e interfaces que respeitam o usuário.",
     intro2:
